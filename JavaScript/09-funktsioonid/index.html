@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skoop</title>
+</head>
+<body>
+    <script>
+        tervita("Tiit");
+        tervita(globaalneMuutuja);
+        var globaalneMuutuja = "Tere Maailm!";
+        tervita(globaalneMuutuja);
+        function tervita(subjekt) {
+            globaalneMuutuja = "Universum";
+            document.write(subjekt + "<br>");
+            document.write(globaalneMuutuja)
+        }
+        tervita(globaalneMuutuja)
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<title>Artur Petrovski Portfolio &#8211; Artur Petrovski TARpe23 õpilane &#8211; portfoolio</title>
+<link rel="alternate" type="application/rss+xml" title="Artur Petrovski Portfolio &raquo; RSS" href="https://arturpetrovski23.thkit.ee/portfolio1/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Artur Petrovski Portfolio &raquo; Kommentaaride RSS" href="https://arturpetrovski23.thkit.ee/portfolio1/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/arturpetrovski23.thkit.ee\/portfolio1\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-block-site-logo-inline-css'>
+.wp-block-site-logo{box-sizing:border-box;line-height:0}.wp-block-site-logo a{display:inline-block;line-height:0}.wp-block-site-logo.is-default-size img{height:auto;width:120px}.wp-block-site-logo img{height:auto;max-width:100%}.wp-block-site-logo a,.wp-block-site-logo img{border-radius:inherit}.wp-block-site-logo.aligncenter{margin-left:auto;margin-right:auto;text-align:center}:root :where(.wp-block-site-logo.is-style-rounded){border-radius:9999px}
+</style>
+<style id='wp-block-site-title-inline-css'>
+.wp-block-site-title{box-sizing:border-box}.wp-block-site-title :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+</style>
+<style id='wp-block-group-inline-css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+</style>
+<style id='wp-block-group-theme-inline-css'>
+:where(.wp-block-group.has-background){padding:1.25em 2.375em}
+</style>
+<style id='wp-block-navigation-link-inline-css'>
+.wp-block-navigation .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}.link-ui-tools{border-top:1px solid #f0f0f0;padding:8px}.link-ui-block-inserter{padding-top:8px}.link-ui-block-inserter__back{margin-left:8px;text-transform:uppercase}
+</style>
+<link rel='stylesheet' id='wp-block-navigation-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/blocks/navigation/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-button-inline-css'>
+.wp-block-button__link{box-sizing:border-box;cursor:pointer;display:inline-block;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+</style>
+<style id='wp-block-buttons-inline-css'>
+.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-button.aligncenter{text-align:center}
+</style>
+<style id='wp-block-heading-inline-css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+</style>
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<link rel='stylesheet' id='wp-block-image-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/blocks/image/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-image-theme-inline-css'>
+:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}
+</style>
+<link rel='stylesheet' id='wp-block-cover-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/blocks/cover/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-template-part-theme-inline-css'>
+:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='wp-block-gallery-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/blocks/gallery/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-gallery-theme-inline-css'>
+.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}
+</style>
+<style id='wp-block-columns-inline-css'>
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+</style>
+<style id='wp-block-post-terms-inline-css'>
+.wp-block-post-terms{box-sizing:border-box}.wp-block-post-terms .wp-block-post-terms__separator{white-space:pre-wrap}
+</style>
+<style id='wp-block-post-title-inline-css'>
+.wp-block-post-title{box-sizing:border-box;word-break:break-word}.wp-block-post-title :where(a){display:inline-block;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+</style>
+<style id='wp-block-post-author-name-inline-css'>
+.wp-block-post-author-name{box-sizing:border-box}
+</style>
+<style id='wp-block-post-date-inline-css'>
+.wp-block-post-date{box-sizing:border-box}
+</style>
+<style id='wp-block-post-excerpt-inline-css'>
+:where(.wp-block-post-excerpt){box-sizing:border-box;margin-bottom:var(--wp--style--block-gap);margin-top:var(--wp--style--block-gap)}.wp-block-post-excerpt__excerpt{margin-bottom:0;margin-top:0}.wp-block-post-excerpt__more-text{margin-bottom:0;margin-top:var(--wp--style--block-gap)}.wp-block-post-excerpt__more-link{display:inline-block}
+</style>
+<style id='wp-block-post-template-inline-css'>
+.wp-block-post-template{list-style:none;margin-bottom:0;margin-top:0;max-width:100%;padding:0}.wp-block-post-template.is-flex-container{display:flex;flex-direction:row;flex-wrap:wrap;gap:1.25em}.wp-block-post-template.is-flex-container>li{margin:0;width:100%}@media (min-width:600px){.wp-block-post-template.is-flex-container.is-flex-container.columns-2>li{width:calc(50% - .625em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-3>li{width:calc(33.33333% - .83333em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-4>li{width:calc(25% - .9375em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-5>li{width:calc(20% - 1em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-6>li{width:calc(16.66667% - 1.04167em)}}@media (max-width:600px){.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid{grid-template-columns:1fr}}.wp-block-post-template-is-layout-constrained>li>.alignright,.wp-block-post-template-is-layout-flow>li>.alignright{float:right;margin-inline-end:0;margin-inline-start:2em}.wp-block-post-template-is-layout-constrained>li>.alignleft,.wp-block-post-template-is-layout-flow>li>.alignleft{float:left;margin-inline-end:2em;margin-inline-start:0}.wp-block-post-template-is-layout-constrained>li>.aligncenter,.wp-block-post-template-is-layout-flow>li>.aligncenter{margin-inline-end:auto;margin-inline-start:auto}
+</style>
+<style id='wp-block-details-inline-css'>
+.wp-block-details{box-sizing:border-box}.wp-block-details summary{cursor:pointer}
+</style>
+<link rel='stylesheet' id='wp-block-social-links-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/blocks/social-links/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-list-inline-css'>
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<link rel='stylesheet' id='saaslauncher-blocks-style-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/css/blocks.css?ver=6.7.1' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #04D4BE;--wp--preset--color--secondary: #2C1FE3;--wp--preset--color--primary-shade-one: #07887B;--wp--preset--color--primary-shade-2: #01574F;--wp--preset--color--secondary-shade-1: #1B1296;--wp--preset--color--secondary-shade-2: #0D0868;--wp--preset--color--light-color: #FFFFFE;--wp--preset--color--black-color: #101010;--wp--preset--color--dark-shade: #0A0A0A;--wp--preset--color--heading-color: #1E262A;--wp--preset--color--background: #FFFFFF;--wp--preset--color--background-alt: #050909;--wp--preset--color--foreground: #6C6C6C;--wp--preset--color--foreground-alt: #C0C0C0;--wp--preset--color--meta-color: #C2C2C2;--wp--preset--color--border-color: #1E2D2C;--wp--preset--color--transparent: #ffffff00;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--gradient-one: radial-gradient(25.38% 41.96% at 3.49% 45.05%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-two: radial-gradient(33.6% 47.05% at 96.71% 45.31%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-three: radial-gradient(27.06% 46.4% at 93.05% 9.59%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-four: radial-gradient(39.83% 51.22% at 7.05% 13.98%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-five: radial-gradient(34.34% 48.21% at 50% 4.44%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-six: radial-gradient(35.79% 50.26% at 50% 95.15%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-seven: radial-gradient(38.18% 60.36% at 6.37% 95.31%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-eight: radial-gradient(37.77% 59.72% at 93.66% 90.51%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-nine: radial-gradient(45.1% 63.32% at 50% 125%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-ten: radial-gradient(38.18% 60.36% at 6.37% 95.31%, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--secondary-shade-1) 22%, var(--wp--preset--color--secondary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-eleven: radial-gradient(30.1% 47.59% at 95.55% 7.35%, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--secondary-shade-1) 22%, var(--wp--preset--color--secondary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-twelve: linear-gradient(90deg, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--secondary) 100%);--wp--preset--gradient--gradient-thirteen: linear-gradient(90deg, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--primary) 100%);--wp--preset--gradient--gradient-fourteen: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-fifteen: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--wp--preset--color--primary) 100%);--wp--preset--gradient--gradient-sixteen: radial-gradient(45.93% 45.93% at 71.16% -2.38%, var(--wp--preset--color--primary) 0%, rgba(255, 255, 255, 0.4) 100%);--wp--preset--gradient--gradient-seventeen: radial-gradient(64.28% 64.28% at 50% 81.63%, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--primary-shade-one) 100%);--wp--preset--gradient--gradient-eighteen: radial-gradient(45% 45% at 50% 89.1%, var(--wp--preset--color--secondary) 0%, var(--wp--preset--color--primary-shade-one) 100%);--wp--preset--gradient--gradient-nineteen: radial-gradient(64.28% 64.28% at 50% 81.63%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--secondary-shade-1) 100%);--wp--preset--gradient--gradient-twenty: radial-gradient(45% 45% at 50% 89.1%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--secondary-shade-1) 100%);--wp--preset--gradient--gradient-twentyone: radial-gradient(30.75% 44.49% at 0% 0%, var(--wp--preset--color--primary) 19%, var(--wp--preset--color--primary-shade-one) 41.83%, rgba(0,0,0,0) 100%), radial-gradient(35.43% 53.33% at 89.62% 84.85%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-twentytwo: radial-gradient(25.82% 39.61% at 100% 0%, var(--wp--preset--color--primary) 19%, var(--wp--preset--color--primary-shade-one) 41.83%, rgba(0, 0, 0, 0) 100%), radial-gradient(41.2% 65.13% at 9.38% 87.14%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-twentythree: radial-gradient(30.86% 47.99% at 105.55% 46.12%, var(--wp--preset--color--primary) 0, var(--wp--preset--color--primary-shade-one) 15%, rgba(0, 0, 0, 0) 100%) , radial-gradient(41.2% 65.13% at 9.38% 87.14%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--gradient--gradient-twentyfour: radial-gradient(31.54% 48.32% at -4.42% 50%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 15%, rgba(0, 0, 0, 0) 100%), radial-gradient(41.4% 65.45% at 86.92% 82.5%, var(--wp--preset--color--primary) 0%, var(--wp--preset--color--primary-shade-one) 22%, var(--wp--preset--color--primary-shade-2) 44%, var(--wp--preset--color--dark-shade) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.366), 20px);--wp--preset--font-size--large: clamp(22.041px, 1.378rem + ((1vw - 3.2px) * 0.851), 36px);--wp--preset--font-size--x-large: clamp(25.014px, 1.563rem + ((1vw - 3.2px) * 1.036), 42px);--wp--preset--font-size--x-small: 12px;--wp--preset--font-size--normal: clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.122), 16px);--wp--preset--font-size--big: clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.503), 24px);--wp--preset--font-size--xx-large: clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.226), 48px);--wp--preset--font-size--xxx-large: clamp(33.419px, 2.089rem + ((1vw - 3.2px) * 1.621), 60px);--wp--preset--font-family--allura: "Allura", sans-serif;--wp--preset--font-family--barlow: "Barlow", sans-serif;--wp--preset--font-family--besley: "Besley", sans-serif;--wp--preset--font-family--dm-sans: "DM Sans", sans-serif;--wp--preset--font-family--faculty-glyphic: "Faculty Glyphic", sans-serif;--wp--preset--font-family--dm-serif-display: "DM Serif Display", sans-serif;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--funnel-sans: "Funnel Sans", sans-serif;--wp--preset--font-family--jost: "Jost", sans-serif;--wp--preset--font-family--manrope: "Manrope", sans-serif;--wp--preset--font-family--montserrat: "Montserrat", sans-serif;--wp--preset--font-family--nunito: "Nunito", sans-serif;--wp--preset--font-family--onest: "Onest", sans-serif;--wp--preset--font-family--oswald: "Oswald", sans-serif;--wp--preset--font-family--outfit: "Outfit", sans-serif;--wp--preset--font-family--parkinsans: "Parkinsans", sans-serif;--wp--preset--font-family--playfair-display: "Playfair Display", sans-serif;--wp--preset--font-family--plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;--wp--preset--font-family--poppins: "Poppins", sans-serif;--wp--preset--font-family--prompt: "Prompt", sans-serif;--wp--preset--font-family--public-sans: "Public Sans", sans-serif;--wp--preset--font-family--quicksand: "Quicksand", sans-serif;--wp--preset--font-family--roboto: "Roboto", sans-serif;--wp--preset--font-family--roboto-condensed: "Roboto Condensed", sans-serif;--wp--preset--font-family--syne: "Syne", sans-serif;--wp--preset--font-family--work-sans: "Work Sans", sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);--wp--custom--typography--line-height--tiny: 1.15;--wp--custom--typography--line-height--small: 1.2;--wp--custom--typography--line-height--medium: 1.4;--wp--custom--typography--line-height--normal: 1.6;}:root { --wp--style--global--content-size: 980px;--wp--style--global--wide-size: 1960; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--background);color: var(--wp--preset--color--foreground);font-family: var(--wp--preset--font-family--inter);font-size: var(--wp-preset--font-size--normal);line-height: 1.5;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--primary);text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):hover){color: var(--wp--preset--color--secondary);}h1, h2, h3, h4, h5, h6{background-color: var(--wp--preset--color--transparent);color: var(--wp--preset--color--heading-color);font-family: var(--wp--preset--font-family--manrope);font-style: normal;font-weight: var(--wp--preset--font-weight--semi-bold);line-height: 1.5;}h1{font-size: var(--wp--preset--font-size--xx-large);font-weight: 700;line-height: var(--wp--preset--line-height--normal);margin-bottom: var(--wp--preset--spacing--small);}h2{font-size: var(--wp--preset--font-size--xx-large);font-weight: 700;line-height: var(--wp--preset--line-height--normal);margin-top: var(--wp--preset--spacing--medium);margin-bottom: var(--wp--preset--spacing--x-small);}h3{font-size: var(--wp--preset--font-size--x-large);font-weight: 700;line-height: var(--wp--preset--line-height--x-small);margin-top: var(--wp--preset--spacing--medium);margin-bottom: var(--wp--preset--spacing--x-small);}h4{font-size: var(--wp--preset--font-size--large);font-weight: 600;line-height: var(--wp--preset--line-height--x-small);margin-top: var(--wp--preset--spacing--small);margin-bottom: var(--wp--preset--spacing--xx-small);}h5{font-size: var(--wp--preset--font-size--medium);font-weight: var(--wp--preset--font-weight--semi-bold);line-height: var(--wp--preset--line-height--medium);margin-top: var(--wp--preset--spacing--small);margin-bottom: var(--wp--preset--spacing--xx-small);}h6{font-size: var(--wp--preset--font-size--small);margin-top: var(--wp--preset--spacing--x-small);margin-bottom: var(--wp--preset--spacing--xx-small);}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--wp--preset--color--primary);border-radius: 0.375em;border-color: var(--wp--preset--color--tertiary);border-width: 0;color: var(--wp--preset--color--light-color);font-family: inherit;font-size: var(--wp--preset--font-size--small);font-weight: var(--wp--preset--font-weight--bold);line-height: var(--wp--preset--line-height--initial);padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: var(--wp--preset--color--secondary);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-primary-shade-one-color{color: var(--wp--preset--color--primary-shade-one) !important;}.has-primary-shade-2-color{color: var(--wp--preset--color--primary-shade-2) !important;}.has-secondary-shade-1-color{color: var(--wp--preset--color--secondary-shade-1) !important;}.has-secondary-shade-2-color{color: var(--wp--preset--color--secondary-shade-2) !important;}.has-light-color-color{color: var(--wp--preset--color--light-color) !important;}.has-black-color-color{color: var(--wp--preset--color--black-color) !important;}.has-dark-shade-color{color: var(--wp--preset--color--dark-shade) !important;}.has-heading-color-color{color: var(--wp--preset--color--heading-color) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-background-alt-color{color: var(--wp--preset--color--background-alt) !important;}.has-foreground-color{color: var(--wp--preset--color--foreground) !important;}.has-foreground-alt-color{color: var(--wp--preset--color--foreground-alt) !important;}.has-meta-color-color{color: var(--wp--preset--color--meta-color) !important;}.has-border-color-color{color: var(--wp--preset--color--border-color) !important;}.has-transparent-color{color: var(--wp--preset--color--transparent) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-primary-shade-one-background-color{background-color: var(--wp--preset--color--primary-shade-one) !important;}.has-primary-shade-2-background-color{background-color: var(--wp--preset--color--primary-shade-2) !important;}.has-secondary-shade-1-background-color{background-color: var(--wp--preset--color--secondary-shade-1) !important;}.has-secondary-shade-2-background-color{background-color: var(--wp--preset--color--secondary-shade-2) !important;}.has-light-color-background-color{background-color: var(--wp--preset--color--light-color) !important;}.has-black-color-background-color{background-color: var(--wp--preset--color--black-color) !important;}.has-dark-shade-background-color{background-color: var(--wp--preset--color--dark-shade) !important;}.has-heading-color-background-color{background-color: var(--wp--preset--color--heading-color) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-background-alt-background-color{background-color: var(--wp--preset--color--background-alt) !important;}.has-foreground-background-color{background-color: var(--wp--preset--color--foreground) !important;}.has-foreground-alt-background-color{background-color: var(--wp--preset--color--foreground-alt) !important;}.has-meta-color-background-color{background-color: var(--wp--preset--color--meta-color) !important;}.has-border-color-background-color{background-color: var(--wp--preset--color--border-color) !important;}.has-transparent-background-color{background-color: var(--wp--preset--color--transparent) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-primary-shade-one-border-color{border-color: var(--wp--preset--color--primary-shade-one) !important;}.has-primary-shade-2-border-color{border-color: var(--wp--preset--color--primary-shade-2) !important;}.has-secondary-shade-1-border-color{border-color: var(--wp--preset--color--secondary-shade-1) !important;}.has-secondary-shade-2-border-color{border-color: var(--wp--preset--color--secondary-shade-2) !important;}.has-light-color-border-color{border-color: var(--wp--preset--color--light-color) !important;}.has-black-color-border-color{border-color: var(--wp--preset--color--black-color) !important;}.has-dark-shade-border-color{border-color: var(--wp--preset--color--dark-shade) !important;}.has-heading-color-border-color{border-color: var(--wp--preset--color--heading-color) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-background-alt-border-color{border-color: var(--wp--preset--color--background-alt) !important;}.has-foreground-border-color{border-color: var(--wp--preset--color--foreground) !important;}.has-foreground-alt-border-color{border-color: var(--wp--preset--color--foreground-alt) !important;}.has-meta-color-border-color{border-color: var(--wp--preset--color--meta-color) !important;}.has-border-color-border-color{border-color: var(--wp--preset--color--border-color) !important;}.has-transparent-border-color{border-color: var(--wp--preset--color--transparent) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-gradient-one-gradient-background{background: var(--wp--preset--gradient--gradient-one) !important;}.has-gradient-two-gradient-background{background: var(--wp--preset--gradient--gradient-two) !important;}.has-gradient-three-gradient-background{background: var(--wp--preset--gradient--gradient-three) !important;}.has-gradient-four-gradient-background{background: var(--wp--preset--gradient--gradient-four) !important;}.has-gradient-five-gradient-background{background: var(--wp--preset--gradient--gradient-five) !important;}.has-gradient-six-gradient-background{background: var(--wp--preset--gradient--gradient-six) !important;}.has-gradient-seven-gradient-background{background: var(--wp--preset--gradient--gradient-seven) !important;}.has-gradient-eight-gradient-background{background: var(--wp--preset--gradient--gradient-eight) !important;}.has-gradient-nine-gradient-background{background: var(--wp--preset--gradient--gradient-nine) !important;}.has-gradient-ten-gradient-background{background: var(--wp--preset--gradient--gradient-ten) !important;}.has-gradient-eleven-gradient-background{background: var(--wp--preset--gradient--gradient-eleven) !important;}.has-gradient-twelve-gradient-background{background: var(--wp--preset--gradient--gradient-twelve) !important;}.has-gradient-thirteen-gradient-background{background: var(--wp--preset--gradient--gradient-thirteen) !important;}.has-gradient-fourteen-gradient-background{background: var(--wp--preset--gradient--gradient-fourteen) !important;}.has-gradient-fifteen-gradient-background{background: var(--wp--preset--gradient--gradient-fifteen) !important;}.has-gradient-sixteen-gradient-background{background: var(--wp--preset--gradient--gradient-sixteen) !important;}.has-gradient-seventeen-gradient-background{background: var(--wp--preset--gradient--gradient-seventeen) !important;}.has-gradient-eighteen-gradient-background{background: var(--wp--preset--gradient--gradient-eighteen) !important;}.has-gradient-nineteen-gradient-background{background: var(--wp--preset--gradient--gradient-nineteen) !important;}.has-gradient-twenty-gradient-background{background: var(--wp--preset--gradient--gradient-twenty) !important;}.has-gradient-twentyone-gradient-background{background: var(--wp--preset--gradient--gradient-twentyone) !important;}.has-gradient-twentytwo-gradient-background{background: var(--wp--preset--gradient--gradient-twentytwo) !important;}.has-gradient-twentythree-gradient-background{background: var(--wp--preset--gradient--gradient-twentythree) !important;}.has-gradient-twentyfour-gradient-background{background: var(--wp--preset--gradient--gradient-twentyfour) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-x-small-font-size{font-size: var(--wp--preset--font-size--x-small) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-big-font-size{font-size: var(--wp--preset--font-size--big) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-xxx-large-font-size{font-size: var(--wp--preset--font-size--xxx-large) !important;}.has-allura-font-family{font-family: var(--wp--preset--font-family--allura) !important;}.has-barlow-font-family{font-family: var(--wp--preset--font-family--barlow) !important;}.has-besley-font-family{font-family: var(--wp--preset--font-family--besley) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-faculty-glyphic-font-family{font-family: var(--wp--preset--font-family--faculty-glyphic) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-funnel-sans-font-family{font-family: var(--wp--preset--font-family--funnel-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-manrope-font-family{font-family: var(--wp--preset--font-family--manrope) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-onest-font-family{font-family: var(--wp--preset--font-family--onest) !important;}.has-oswald-font-family{font-family: var(--wp--preset--font-family--oswald) !important;}.has-outfit-font-family{font-family: var(--wp--preset--font-family--outfit) !important;}.has-parkinsans-font-family{font-family: var(--wp--preset--font-family--parkinsans) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-prompt-font-family{font-family: var(--wp--preset--font-family--prompt) !important;}.has-public-sans-font-family{font-family: var(--wp--preset--font-family--public-sans) !important;}.has-quicksand-font-family{font-family: var(--wp--preset--font-family--quicksand) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-condensed-font-family{font-family: var(--wp--preset--font-family--roboto-condensed) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+:root{--wp--preset--duotone--light-secondary:url(#wp-duotone-light-secondary);--wp--preset--duotone--secondary-light:url(#wp-duotone-secondary-light);--wp--preset--duotone--primary-light:url(#wp-duotone-primary-light);--wp--preset--duotone--dark-secondary:url(#wp-duotone-dark-secondary);}
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-elements-69a28f49878bc41bc9123d02c43295da a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-69a28f49878bc41bc9123d02c43295da a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--secondary);}.wp-container-core-group-is-layout-1{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-navigation-is-layout-1{gap:24px;justify-content:center;}.wp-container-core-group-is-layout-2{justify-content:space-between;}.wp-container-core-group-is-layout-3 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-3 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-3 .alignfull{max-width:none;}.wp-container-core-group-is-layout-3 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-63554c3fbe330768fc4c7203a2c853f4 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-4 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-5{flex-wrap:nowrap;justify-content:center;}.wp-elements-1bb3f66f40cf253ff9186140f3a12f72 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-738f2cdc48a0d59201701540b71bd251 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-6 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:860px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-6 > .alignwide{max-width:860px;}.wp-container-core-group-is-layout-6 .alignfull{max-width:none;}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-container-core-buttons-is-layout-2{justify-content:center;}.wp-container-core-group-is-layout-8{flex-wrap:nowrap;justify-content:center;}.wp-container-core-cover-is-layout-1 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:980px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-cover-is-layout-1 > .alignwide{max-width:980px;}.wp-container-core-cover-is-layout-1 .alignfull{max-width:none;}.wp-container-core-cover-is-layout-1 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-core-group-is-layout-9 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-9 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-9 .alignfull{max-width:none;}.wp-container-core-group-is-layout-9 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-9 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-9 > * + *{margin-block-start:0;margin-block-end:0;}.wp-elements-c9de8f02c4cfa788a3c9664e18d9ddce a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-10 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:640px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-10 > .alignwide{max-width:640px;}.wp-container-core-group-is-layout-10 .alignfull{max-width:none;}.wp-container-core-group-is-layout-10 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-10 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-block-gallery.wp-block-gallery-2{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-container-core-group-is-layout-11 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-11 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-11 .alignfull{max-width:none;}.wp-container-core-group-is-layout-12 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-12 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-12 .alignfull{max-width:none;}.wp-container-core-group-is-layout-12 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-d106de7d7bf2043415092864f7bde9c5 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-13 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-14{flex-wrap:nowrap;justify-content:flex-start;}.wp-elements-fd884e04ec2e0b7b0eb04c683bf94d41 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-4859c427bb68004f5fffa322c63f5322 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-buttons-is-layout-3{justify-content:flex-start;}.wp-container-core-group-is-layout-15 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-15 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-15 .alignfull{max-width:none;}.wp-container-core-group-is-layout-15 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-3{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-elements-127835746ba1d846309c3979d9343fb9 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-59c71dd313dbdbff9d75763059bc2e5a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-16 > .alignfull{margin-right:calc(40px * -1);margin-left:calc(40px * -1);}.wp-container-core-group-is-layout-16 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-16 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-elements-22574c245047b701c4d343202e2eeeac a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-17 > .alignfull{margin-right:calc(40px * -1);margin-left:calc(40px * -1);}.wp-container-core-group-is-layout-17 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-17 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;gap:2em 28px;}.wp-elements-6fad96eb703ae495a79cdb2cfbf38b1b a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-34f3681268ed10d9ac45c0b598496837 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-18 > .alignfull{margin-right:calc(40px * -1);margin-left:calc(40px * -1);}.wp-container-core-group-is-layout-18 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-18 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-elements-f060e819010edb2bbf21738d7eb8c2d2 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-19 > .alignfull{margin-right:calc(40px * -1);margin-left:calc(40px * -1);}.wp-container-core-group-is-layout-19 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-19 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;gap:2em 28px;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;gap:2em 64px;}.wp-container-core-group-is-layout-20 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-20 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-20 .alignfull{max-width:none;}.wp-container-core-group-is-layout-20 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-92f1eb05637922a7db24bf7574fca3ac a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-21 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-22{flex-wrap:nowrap;justify-content:center;}.wp-elements-0b761bed3c197191bf23137f1c93b7a1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-62690bbf2849eb968c855898b416bcb8 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-23 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:640px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-23 > .alignwide{max-width:640px;}.wp-container-core-group-is-layout-23 .alignfull{max-width:none;}.wp-elements-70a52a018e73c684d7c99b8c11b5a561 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-24 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-25{flex-wrap:nowrap;justify-content:flex-start;}.wp-elements-fbec607e480ba631aea7a46872636361 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-7e2fef6349c0bc3efeed3c3a70813793 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-26 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:420px;margin-left:auto !important;margin-right:0 !important;}.wp-container-core-group-is-layout-26 > .alignwide{max-width:420px;}.wp-container-core-group-is-layout-26 .alignfull{max-width:none;}.wp-container-core-group-is-layout-26 > .alignfull{margin-right:calc(var(--wp--preset--spacing--50) * -1);margin-left:calc(var(--wp--preset--spacing--50) * -1);}.wp-container-core-group-is-layout-26 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-26 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40) 0;}.wp-container-core-group-is-layout-27 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1040px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-27 > .alignwide{max-width:1040px;}.wp-container-core-group-is-layout-27 .alignfull{max-width:none;}.wp-container-core-group-is-layout-27 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-82c6dab9f9596d40afd326c97b9b34cc a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-28 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-29{flex-wrap:nowrap;justify-content:flex-start;}.wp-elements-fe55f5938f5f017bd08ef76ac1e058de a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-30 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:450px;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-30 > .alignwide{max-width:450px;}.wp-container-core-group-is-layout-30 .alignfull{max-width:none;}.wp-container-core-group-is-layout-30 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-30 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-30 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40) 0;}.wp-container-core-group-is-layout-31 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1040px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-31 > .alignwide{max-width:1040px;}.wp-container-core-group-is-layout-31 .alignfull{max-width:none;}.wp-container-core-group-is-layout-31 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-core-group-is-layout-32 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-32 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-32 .alignfull{max-width:none;}.wp-container-core-group-is-layout-32 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-elements-9a6930f306da5472d9ff2f62509f6588 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-33 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-34{flex-wrap:nowrap;justify-content:center;}.wp-elements-1f69571c26570fe9132003864559c40c a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-022d9d405b7c06053044c5899f92bad2 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-35 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:640px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-35 > .alignwide{max-width:640px;}.wp-container-core-group-is-layout-35 .alignfull{max-width:none;}.wp-elements-6748404e7a93856fc9d2f9934733dc90 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-5e6e6ca2f7454a9395023262ee74925b a:where(:not(.wp-element-button)){color:var(--wp--preset--color--primary);}.wp-elements-37cbbd9273b54e4d95bcfaeab4e29100 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-36{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-37{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-38 > .alignfull{margin-right:calc(30px * -1);margin-left:calc(30px * -1);}.wp-elements-4d13ecd2a378d21626eb8285007ec671 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--primary);}.wp-elements-130dce6935369985c95a9c5a616510b0 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-39{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-40{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-41 > .alignfull{margin-right:calc(30px * -1);margin-left:calc(30px * -1);}.wp-elements-11fd4c4a75308972d8af96660cc1e260 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--primary);}.wp-elements-241f138d875d08d1bfa46305d9fd876a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-42{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-43{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-44 > .alignfull{margin-right:calc(30px * -1);margin-left:calc(30px * -1);}.wp-container-core-columns-is-layout-6{flex-wrap:nowrap;gap:2em 30px;}.wp-container-core-buttons-is-layout-4{justify-content:center;}.wp-container-core-group-is-layout-45 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-45 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-45 .alignfull{max-width:none;}.wp-container-core-group-is-layout-45 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-3f79f632215759e5cd8237e490533928 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-401251d20272db812659de0695f8b75e a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-46 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:680px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-46 > .alignwide{max-width:680px;}.wp-container-core-group-is-layout-46 .alignfull{max-width:none;}.wp-container-core-group-is-layout-47{flex-wrap:nowrap;}.wp-elements-a4edf4510e5e14265cc3bd03166b4fbb a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-a4edf4510e5e14265cc3bd03166b4fbb a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--secondary);}.wp-elements-4a952dd4a6beb8b1c74f8ee3e0dbf1a9 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--meta-color);}.wp-elements-c3f3f2cb0abd5678f270c10ad2005cc1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--meta-color);}.wp-container-core-group-is-layout-48{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40);}.wp-elements-6f060ad84848ef3a690c48b38fb25305 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-group-is-layout-49 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-50 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-51{flex-wrap:nowrap;}.wp-container-core-group-is-layout-52{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40);}.wp-container-core-group-is-layout-53 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-54 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-post-template-is-layout-1{grid-template-columns:repeat(2, minmax(0, 1fr));gap:48px;}.wp-container-core-group-is-layout-55 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-55 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-55 .alignfull{max-width:none;}.wp-container-core-group-is-layout-55 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-3af95b41fbfa0f6351ad82cff137d3d0 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-e84250e21debb3f6c0644b4adc3f0bc8 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-cd828e316e0a710c0fd12122bb85424a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-content-1{flex-grow:1;}.wp-elements-738b1e45a828f7c67cd024aea0d44e2a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-content-2{flex-grow:1;}.wp-elements-b4f0a320f831bb2394d97e70f2b5a354 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-content-3{flex-grow:1;}.wp-container-content-4{flex-grow:1;}.wp-container-content-5{flex-grow:1;}.wp-elements-66b4c1405be8939841b9770a5d9f1802 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-content-6{flex-grow:1;}.wp-container-content-7{flex-grow:1;}.wp-container-core-group-is-layout-56 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-56 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-group-is-layout-57 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:620px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-57 > .alignwide{max-width:620px;}.wp-container-core-group-is-layout-57 .alignfull{max-width:none;}.wp-container-core-group-is-layout-57 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-core-group-is-layout-57 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-57 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-elements-23fa5b0291b64bb2ac063733abce1cf4 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-054f12c116343245ca33e1756dab3841 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-buttons-is-layout-5{justify-content:center;}.wp-container-core-cover-is-layout-6 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:780px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-cover-is-layout-6 > .alignwide{max-width:780px;}.wp-container-core-cover-is-layout-6 .alignfull{max-width:none;}.wp-container-core-cover-is-layout-6 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-core-cover-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-cover-is-layout-6 > * + *{margin-block-start:var(--wp--preset--spacing--40);margin-block-end:0;}.wp-container-core-group-is-layout-58 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-58 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-58 .alignfull{max-width:none;}.wp-container-core-group-is-layout-58 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-59 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-59 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-59 .alignfull{max-width:none;}.wp-container-core-group-is-layout-59 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-elements-888526bfa301e287496470f146aed637 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-888526bfa301e287496470f146aed637 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-container-core-group-is-layout-60{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40);}.wp-elements-a32dd8143d9773185a5add3e97a4eac7 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-container-core-social-links-is-layout-1{gap:0 var(--wp--preset--spacing--40);}.wp-container-core-group-is-layout-61 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:380px;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-61 > .alignwide{max-width:380px;}.wp-container-core-group-is-layout-61 .alignfull{max-width:none;}.wp-elements-3a2cc06bb65293513741e191ac345b95 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-152f1625c76304db31578eb5a59a79a1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-152f1625c76304db31578eb5a59a79a1 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-elements-e4dd0a5974b240943dcfb08c4025a825 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-60cf78d6f8980748a8c2b5ad7ef7ad09 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-60cf78d6f8980748a8c2b5ad7ef7ad09 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-elements-bd2f3c54e1615e77826301a593e7b81f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-elements-39108a909a43a6f1126b9790b5c3e21e a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-39108a909a43a6f1126b9790b5c3e21e a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-elements-9e8f34f46ae1b55748f09e2ec969f65c a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-9e8f34f46ae1b55748f09e2ec969f65c a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-elements-444394d4b09e36b5b14dbe426db19ee8 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-444394d4b09e36b5b14dbe426db19ee8 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-elements-3fe54ec4375f85d3f2af8e13d6585158 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground-alt);}.wp-elements-3fe54ec4375f85d3f2af8e13d6585158 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--primary);}.wp-container-core-group-is-layout-62{gap:var(--wp--preset--spacing--40);flex-direction:column;align-items:flex-start;}.wp-container-core-columns-is-layout-7{flex-wrap:nowrap;gap:2em 44px;}.wp-container-core-group-is-layout-63 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-63 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-63 .alignfull{max-width:none;}.wp-container-core-group-is-layout-63 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-f023b0f039f716373ed60c9903374c87 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--light-color);}.wp-container-core-group-is-layout-64 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-64 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-64 .alignfull{max-width:none;}.wp-container-core-group-is-layout-64 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-core-group-is-layout-65 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-65 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-65 .alignfull{max-width:none;}.wp-container-core-group-is-layout-65 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-duotone-light-secondary.wp-block-image img, .wp-duotone-light-secondary.wp-block-image .components-placeholder{filter:var(--wp--preset--duotone--light-secondary);}.wp-duotone-secondary-light.wp-block-image img, .wp-duotone-secondary-light.wp-block-image .components-placeholder{filter:var(--wp--preset--duotone--secondary-light);}.wp-duotone-primary-light.wp-block-image img, .wp-duotone-primary-light.wp-block-image .components-placeholder{filter:var(--wp--preset--duotone--primary-light);}.wp-duotone-dark-secondary.wp-block-cover > .wp-block-cover__image-background, .wp-duotone-dark-secondary.wp-block-cover > .wp-block-cover__video-background{filter:var(--wp--preset--duotone--dark-secondary);}
+</style>
+<style id='wp-block-template-skip-link-inline-css'>
+
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+</style>
+<link rel='stylesheet' id='saaslauncher-style-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/style.css?ver=1.0.14' media='all' />
+<link rel='stylesheet' id='saaslauncher-aos-style-css' href='https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/css/aos.css?ver=6.7.1' media='all' />
+<script src="https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-json/wp/v2/pages/17" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://arturpetrovski23.thkit.ee/portfolio1/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://arturpetrovski23.thkit.ee/portfolio1/" />
+<link rel='shortlink' href='https://arturpetrovski23.thkit.ee/portfolio1/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farturpetrovski23.thkit.ee%2Fportfolio1%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farturpetrovski23.thkit.ee%2Fportfolio1%2F&#038;format=xml" />
+<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress\/interactivity":"https:\/\/arturpetrovski23.thkit.ee\/portfolio1\/wp-includes\/js\/dist\/script-modules\/interactivity\/index.min.js?ver=06b8f695ef48ab2d9277"}}
+</script>
+<script type="module" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=8ff192874fc8910a284c" id="@wordpress/block-library/navigation/view-js-module"></script>
+<link rel="modulepreload" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=06b8f695ef48ab2d9277" id="@wordpress/interactivity-js-modulepreload"><style class='wp-fonts-local'>
+@font-face{font-family:Allura;font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/allura/Allura-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Barlow;font-style:normal;font-weight:300;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/barlow/Barlow-Light.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Barlow;font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/barlow/Barlow-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Barlow;font-style:normal;font-weight:500;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/barlow/Barlow-Medium.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Barlow;font-style:normal;font-weight:600;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/barlow/Barlow-SemiBold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Barlow;font-style:normal;font-weight:700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/barlow/Barlow-Bold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Besley;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/besley/Besley-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Besley;font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/besley/Besley-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"DM Sans";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/dm_sans/DMSans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"DM Sans";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/dm_sans/DMSans-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Faculty Glyphic";font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/faculty_glyphic/FacultyGlyphic-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"DM Serif Display";font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/dm_serif_display/DMSerifDisplay-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Inter;font-style:normal;font-weight:300 400 500 600 700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/inter/Inter-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Funnel Sans";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/funnel_sans/FunnelSans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Funnel Sans";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/funnel_sans/FunnelSans-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Jost;font-style:normal;font-weight:300 400 500 600 700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/jost/Jost-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Jost;font-style:italic;font-weight:300 400 500 600 700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/jost/Jost-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Manrope;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/manrope/Manrope-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Montserrat;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Montserrat;font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/montserrat/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Nunito;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/nunito/Nunito-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Nunito;font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/nunito/Nunito-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Onest;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/onest/Onest-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Oswald;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/oswald/Oswald-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Outfit;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Parkinsans;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/parkinsans/Parkinsans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Playfair Display";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/playfair-display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Playfair Display";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/playfair-display/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Plus Jakarta Sans";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/plus_jakarta_sans/PlusJakartaSans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Plus Jakarta Sans";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/plus_jakarta_sans/PlusJakartaSans-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:200;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-Thin.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:300;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-Light.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:500;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-Medium.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:600;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-SemiBold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/poppins/Poppins-Bold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Prompt;font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/prompt/Prompt-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Prompt;font-style:normal;font-weight:600;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/prompt/Prompt-SemiBold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Prompt;font-style:normal;font-weight:700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/prompt/Prompt-Bold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Prompt;font-style:normal;font-weight:800;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/prompt/Prompt-ExtraBold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Public Sans";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/public-sans/PublicSans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Public Sans";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/public-sans/PublicSans-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Quicksand;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Roboto;font-style:normal;font-weight:400;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/roboto/Roboto-Regular.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Roboto;font-style:normal;font-weight:500;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/roboto/Roboto-Medium.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Roboto;font-style:normal;font-weight:700;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/roboto/Roboto-Bold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Roboto Condensed";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/roboto_condensed/RobotoCondensed-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Roboto Condensed";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/roboto_condensed/RobotoCondensed-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:Syne;font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/syne/Syne-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Work Sans";font-style:normal;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/work_sans/WorkSans-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Work Sans";font-style:italic;font-weight:300 400 500 600 700 900;font-display:fallback;src:url('https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+</style>
+<link rel="icon" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/cropped-images-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/cropped-images-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/cropped-images-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/cropped-images-270x270.jpg" />
+<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-border-style: solid;
+--wpforms-field-border-size: 1px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-field-menu-color: #ffffff;
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-border-style: none;
+--wpforms-button-border-size: 1px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-border-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-background-image: none;
+--wpforms-background-position: center center;
+--wpforms-background-repeat: no-repeat;
+--wpforms-background-size: cover;
+--wpforms-background-width: 100px;
+--wpforms-background-height: 100px;
+--wpforms-background-color: rgba( 0, 0, 0, 0 );
+--wpforms-background-url: none;
+--wpforms-container-padding: 0px;
+--wpforms-container-border-style: none;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-color: #000000;
+--wpforms-container-border-radius: 3px;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+
+				}
+			</style></head>
+
+<body class="home page-template page-template-no-title page page-id-17 wp-custom-logo wp-embed-responsive">
+
+<div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-group has-gradient-one-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-9 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+    <div class="wp-block-group saaslauncher-header is-layout-constrained wp-container-core-group-is-layout-3 wp-block-group-is-layout-constrained" style="border-bottom-style:none;border-bottom-width:0px;padding-top:22px;padding-right:var(--wp--preset--spacing--40);padding-bottom:22px;padding-left:var(--wp--preset--spacing--40)">
+        <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex">
+            <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex"><div class="wp-block-site-logo"><a href="https://arturpetrovski23.thkit.ee/portfolio1/" class="custom-logo-link" rel="home" aria-current="page"><img width="40" height="40" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/extendify-demo-logo.png" class="custom-logo" alt="Artur Petrovski Portfolio" decoding="async" /></a></div>
+
+                <h1 style="font-size:clamp(17.905px, 1.119rem + ((1vw - 3.2px) * 0.616), 28px);font-style:normal;font-weight:600;line-height:1;text-transform:none;letter-spacing:0px; margin-top:0px;" class="has-link-color wp-elements-69a28f49878bc41bc9123d02c43295da wp-block-site-title"><a href="https://arturpetrovski23.thkit.ee/portfolio1" target="_self" rel="home" aria-current="page">Artur Petrovski Portfolio</a></h1>
+            </div>
+            
+
+            <nav style="font-style:normal;font-weight:500;line-height:2;text-transform:none;" class="has-text-color has-light-color-color has-normal-font-size is-responsive items-justified-center saaslauncher-navigation wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="" 
+		 data-wp-interactive="core/navigation" data-wp-context='{"overlayOpenedBy":{"click":false,"hover":false,"focus":false},"type":"overlay","roleAttribute":"","ariaLabel":"Men\u00fc\u00fc"}'><button aria-haspopup="dialog" aria-label="Ava menüü" class="wp-block-navigation__responsive-container-open " 
+				data-wp-on-async--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container  has-text-color has-heading-color-color has-background has-secondary-bg-background-color"  id="modal-1" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on-async--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Sulge menüü" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on-async--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-1-content">
+								<ul style="font-style:normal;font-weight:500;line-height:2;text-transform:none;" class="wp-block-navigation__container has-text-color has-light-color-color has-normal-font-size is-responsive items-justified-center saaslauncher-navigation wp-block-navigation has-normal-font-size"><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/kontakt/"><span class="wp-block-navigation-item__label">Kontakt</span></a></li><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/meist/"><span class="wp-block-navigation-item__label">Meist</span></a></li><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/portfoolio/"><span class="wp-block-navigation-item__label">Portfoolio</span></a></li><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/sample-page/"><span class="wp-block-navigation-item__label">Uudised</span></a></li><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/asukoht/"><span class="wp-block-navigation-item__label">Asukoht</span></a></li><li class="has-normal-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://arturpetrovski23.thkit.ee/portfolio1/privaatsustingimused/"><span class="wp-block-navigation-item__label">Privaatsustingimused</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav>
+
+            
+            <div class="wp-block-buttons is-style-button-zoom-on-hover is-layout-flex wp-block-buttons-is-layout-flex">
+                <div class="wp-block-button has-custom-font-size" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);"><a class="wp-block-button__link has-gradient-twelve-gradient-background has-background wp-element-button" style="border-radius:60px;padding-top:16px;padding-right:40px;padding-bottom:16px;padding-left:40px">Get Started</a></div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-cover is-light" style="margin-top:80px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);min-height:640px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span>
+        <div class="wp-block-cover__inner-container is-layout-constrained wp-container-core-cover-is-layout-1 wp-block-cover-is-layout-constrained">
+            <div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-5 wp-block-group-is-layout-flex">
+                <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-4 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:2px;border-right-width:2px;border-bottom-style:none;border-bottom-width:0px;border-left-width:2px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                    <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-63554c3fbe330768fc4c7203a2c853f4">Welcome to SaasLauncher</h5>
+                    
+                </div>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-6 wp-block-group-is-layout-constrained" style="margin-top:20px;margin-bottom:0">
+                <h1 class="wp-block-heading has-text-align-center saaslauncher-big-title has-light-color-color has-text-color has-link-color wp-elements-1bb3f66f40cf253ff9186140f3a12f72" style="font-size:clamp(36.954px, 2.31rem + ((1vw - 3.2px) * 1.893), 68px);font-style:normal;font-weight:700;line-height:1.2">Launch Faster, <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">Scale Smarter &#8211; Transform</mark> Your Website!</h1>
+                
+
+                
+                <p class="has-text-align-center has-light-color-color has-text-color has-link-color has-medium-font-size wp-elements-738f2cdc48a0d59201701540b71bd251" style="line-height:1.5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-buttons is-style-button-zoom-on-hover is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex" style="margin-top:44px">
+                <div class="wp-block-button has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-gradient-twelve-gradient-background has-background wp-element-button" style="border-radius:60px;padding-top:20px;padding-right:40px;padding-bottom:20px;padding-left:40px">Start Free Trial</a></div>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-8 wp-block-group-is-layout-flex" style="margin-top:64px">
+                <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:30px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px">
+                    <figure class="wp-block-image alignfull size-large is-style-saaslauncher-image-hover-zoom"><img decoding="async" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/launcher-dash.png" alt="" class="wp-image-8983" /></figure>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+    
+</div>
+
+</header>
+
+
+<main class="wp-block-group has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-59 wp-block-group-is-layout-constrained" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0">
+  
+<div class="wp-block-group has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-12 wp-block-group-is-layout-constrained" style="border-bottom-color:var(--wp--preset--color--background-alt);border-bottom-width:1px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:0;padding-left:var(--wp--preset--spacing--40)">
+    <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-10 wp-block-group-is-layout-constrained">
+        <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color has-big-font-size wp-elements-c9de8f02c4cfa788a3c9664e18d9ddce" style="margin-top:0;margin-bottom:0;font-style:normal;font-weight:600;line-height:1.7">Brands I&#039;ve Collaborated With</h1>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-11 wp-block-group-is-layout-constrained" style="border-bottom-style:none;border-bottom-width:0px;margin-top:40px;margin-bottom:0;padding-bottom:64px">
+        <figure class="wp-block-gallery has-nested-images columns-6 saaslauncher-brands is-style-default wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex" style="margin-top:40px">
+            <figure class="wp-block-image size-large wp-duotone-light-secondary"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_1.png" alt="" class="wp-image-4568" /></figure>
+            
+
+            
+            <figure class="wp-block-image size-large wp-duotone-light-secondary"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_2.png" alt="" class="wp-image-4567" /></figure>
+            
+
+            
+            <figure class="wp-block-image size-large wp-duotone-secondary-light"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_3.png" alt="" class="wp-image-4569" /></figure>
+            
+
+            
+            <figure class="wp-block-image size-large"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_4.png" alt="" class="wp-image-4565" /></figure>
+            
+
+            
+            <figure class="wp-block-image size-large wp-duotone-light-secondary"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_5.png" alt="" class="wp-image-4566" /></figure>
+            
+
+            
+            <figure class="wp-block-image size-large wp-duotone-light-secondary"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/logo_6.png" alt="" class="wp-image-4569" /></figure>
+            
+        </figure>
+        
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-20 wp-block-group-is-layout-constrained" style="padding-top:7rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:7rem;padding-left:var(--wp--preset--spacing--40)">
+    <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+        <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+            <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-15 wp-block-group-is-layout-constrained wp-container-3 is-position-sticky" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+                <div class="wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-core-group-is-layout-14 wp-block-group-is-layout-flex">
+                    <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-13 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                        <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-d106de7d7bf2043415092864f7bde9c5">Our Services</h5>
+                        
+                    </div>
+                    
+                </div>
+                
+
+                
+                <h1 class="wp-block-heading has-light-color-color has-text-color has-link-color wp-elements-fd884e04ec2e0b7b0eb04c683bf94d41" style="font-style:normal;font-weight:800;line-height:1.2">Ensure You Receive High-Quality Services</h1>
+                
+
+                
+                <p class="has-foreground-alt-color has-text-color has-link-color wp-elements-4859c427bb68004f5fffa322c63f5322">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                
+
+                
+                <div class="wp-block-buttons is-style-button-zoom-on-hover is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex" style="margin-top:40px">
+                    <div class="wp-block-button has-custom-font-size" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.122), 16px);"><a class="wp-block-button__link has-gradient-twelve-gradient-background has-background wp-element-button" style="border-radius:60px;padding-top:16px;padding-right:28px;padding-bottom:16px;padding-left:28px">View All Services</a></div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+
+        
+        <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+            <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+                <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+                    <div class="wp-block-group has-border-color has-border-color-border-color is-layout-constrained wp-container-core-group-is-layout-16 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:24px;margin-top:0;margin-bottom:0;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+                        <figure class="wp-block-image size-full is-resized wp-duotone-primary-light"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/service_icon_1.png" alt="" class="wp-image-8695" style="object-fit:cover;width:75px;height:75px" /></figure>
+                        
+
+                        
+                        <h4 class="wp-block-heading has-light-color-color has-text-color has-link-color has-big-font-size wp-elements-127835746ba1d846309c3979d9343fb9" style="margin-top:32px">Web Applications</h4>
+                        
+
+                        
+                        <p class="has-light-color-color has-text-color has-link-color wp-elements-59c71dd313dbdbff9d75763059bc2e5a">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                        
+                    </div>
+                    
+                </div>
+                
+
+                
+                <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+                    <div class="wp-block-group has-border-color has-border-color-border-color is-layout-constrained wp-container-core-group-is-layout-17 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:24px;margin-top:0;margin-bottom:0;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+                        <figure class="wp-block-image size-full is-resized wp-duotone-primary-light"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/service_icon_2.png" alt="" class="wp-image-8698" style="object-fit:cover;width:75px;height:75px" /></figure>
+                        
+
+                        
+                        <h4 class="wp-block-heading has-light-color-color has-text-color has-link-color has-big-font-size wp-elements-22574c245047b701c4d343202e2eeeac" style="margin-top:32px">UI/UX Design</h4>
+                        
+
+                        
+                        <p class="has-light-color-color has-text-color has-link-color wp-elements-59c71dd313dbdbff9d75763059bc2e5a">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex" style="margin-top:28px">
+                <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+                    <div class="wp-block-group has-border-color has-border-color-border-color is-layout-constrained wp-container-core-group-is-layout-18 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:24px;margin-top:0;margin-bottom:0;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+                        <figure class="wp-block-image size-full is-resized wp-duotone-primary-light"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/service_icon_3.png" alt="" class="wp-image-8699" style="object-fit:cover;width:75px;height:75px" /></figure>
+                        
+
+                        
+                        <h4 class="wp-block-heading has-light-color-color has-text-color has-link-color has-big-font-size wp-elements-6fad96eb703ae495a79cdb2cfbf38b1b" style="margin-top:32px">Digital Marketing</h4>
+                        
+
+                        
+                        <p class="has-light-color-color has-text-color has-link-color wp-elements-34f3681268ed10d9ac45c0b598496837">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.saaslauncher</p>
+                        
+                    </div>
+                    
+                </div>
+                
+
+                
+                <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+                    <div class="wp-block-group has-border-color has-border-color-border-color is-layout-constrained wp-container-core-group-is-layout-19 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:24px;margin-top:0;margin-bottom:0;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+                        <figure class="wp-block-image size-full is-resized wp-duotone-primary-light"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/service_icon_4.png" alt="" class="wp-image-8700" style="object-fit:cover;width:75px;height:75px" /></figure>
+                        
+
+                        
+                        <h4 class="wp-block-heading has-light-color-color has-text-color has-link-color has-big-font-size wp-elements-f060e819010edb2bbf21738d7eb8c2d2" style="margin-top:32px">Product Design</h4>
+                        
+
+                        
+                        <p class="has-light-color-color has-text-color has-link-color wp-elements-59c71dd313dbdbff9d75763059bc2e5a">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-32 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+    <div class="wp-block-group has-gradient-three-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-27 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:7rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--40)">
+        <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-23 wp-block-group-is-layout-constrained" style="margin-bottom:84px">
+            <div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-22 wp-block-group-is-layout-flex">
+                <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-21 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                    <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-92f1eb05637922a7db24bf7574fca3ac">Featured Works</h5>
+                    
+                </div>
+                
+            </div>
+            
+
+            
+            <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color wp-elements-0b761bed3c197191bf23137f1c93b7a1" style="font-style:normal;font-weight:800;line-height:1.2">Our Newest <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">Ventures with Leading</mark> Companies</h1>
+            
+
+            
+            <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color wp-elements-62690bbf2849eb968c855898b416bcb8">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+            
+        </div>
+        
+
+        
+        <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+            <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+                <div class="wp-block-cover is-light" style="min-height:500px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#9fa1ae"></span><img class="wp-block-cover__image-background wp-image-8714" alt="" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/work_1.png" data-object-fit="cover" />
+                    <div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+                        <p class="has-text-align-center has-large-font-size"></p>
+                        
+                    </div>
+                </div>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+                <div class="wp-block-group is-content-justification-right is-layout-constrained wp-container-core-group-is-layout-26 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">
+                    <div class="wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-core-group-is-layout-25 wp-block-group-is-layout-flex" style="margin-bottom:24px">
+                        <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-24 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                            <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-70a52a018e73c684d7c99b8c11b5a561">Mobile App</h5>
+                            
+                        </div>
+                        
+                    </div>
+                    
+
+                    
+                    <h3 class="wp-block-heading has-light-color-color has-text-color has-link-color wp-elements-fbec607e480ba631aea7a46872636361" style="line-height:1.3">Next-Generation Mobile Apps Development</h3>
+                    
+
+                    
+                    <p class="has-light-color-color has-text-color has-link-color wp-elements-7e2fef6349c0bc3efeed3c3a70813793" style="margin-bottom:28px">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                    
+
+                    
+                    <figure class="wp-block-image size-full is-resized is-style-saaslauncher-image-hover-zoom wp-duotone-primary-light"><a href="#"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/icon_button.png" alt="" class="wp-image-9420" style="object-fit:cover;width:48px;height:49px" /></a></figure>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-group has-gradient-ten-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-31 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--40);padding-bottom:7rem;padding-left:var(--wp--preset--spacing--40)">
+        <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+            <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0;flex-basis:50%">
+                <div class="wp-block-group is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-30 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0">
+                    <div class="wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-core-group-is-layout-29 wp-block-group-is-layout-flex" style="margin-bottom:24px">
+                        <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-28 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                            <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-82c6dab9f9596d40afd326c97b9b34cc">Branding</h5>
+                            
+                        </div>
+                        
+                    </div>
+                    
+
+                    
+                    <h3 class="wp-block-heading has-light-color-color has-text-color has-link-color wp-elements-fe55f5938f5f017bd08ef76ac1e058de" style="line-height:1.3">Creative Branding Solutions</h3>
+                    
+
+                    
+                    <p class="has-light-color-color has-text-color has-link-color wp-elements-7e2fef6349c0bc3efeed3c3a70813793" style="margin-bottom:28px">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                    
+
+                    
+                    <figure class="wp-block-image size-full is-resized is-style-saaslauncher-image-hover-zoom wp-duotone-primary-light"><a href="#"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/icon_button.png" alt="" class="wp-image-9420" style="object-fit:cover;width:48px;height:49px" /></a></figure>
+                    
+                </div>
+                
+            </div>
+            
+
+            
+            <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+                <div class="wp-block-cover" style="min-height:500px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#7455b0"></span><img class="wp-block-cover__image-background wp-image-8744" alt="" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/work_2.png" data-object-fit="cover" />
+                    <div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+                        <p class="has-text-align-center has-large-font-size"></p>
+                        
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-45 wp-block-group-is-layout-constrained" style="margin-top:0px;margin-bottom:0px;padding-top:7rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:4rem;padding-left:var(--wp--preset--spacing--40)">
+    <div class="wp-block-group is-content-justification-center is-layout-constrained wp-container-core-group-is-layout-35 wp-block-group-is-layout-constrained" style="margin-bottom:60px">
+        <div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-34 wp-block-group-is-layout-flex">
+            <div class="wp-block-group is-style-saaslauncher-gradient-border has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-33 wp-block-group-is-layout-constrained" style="border-radius:60px;border-top-width:1px;border-right-width:1px;border-bottom-style:none;border-bottom-width:0px;border-left-width:1px;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">
+                <h5 class="wp-block-heading has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-9a6930f306da5472d9ff2f62509f6588">Testimonials &amp; Reviews</h5>
+                
+            </div>
+            
+        </div>
+        
+
+        
+        <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color wp-elements-1f69571c26570fe9132003864559c40c" style="font-style:normal;font-weight:800;line-height:1.3">Hear From Our Happy Clients: Their Stories</h1>
+        
+
+        
+        <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color wp-elements-022d9d405b7c06053044c5899f92bad2">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex" style="margin-top:0px">
+        <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+            <div class="wp-block-group saaslauncher-hover-box has-border-color has-border-color-border-color has-background-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-38 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:12px;margin-top:0;margin-bottom:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+                <figure class="wp-block-image size-full is-resized"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/rating_star.png" alt="" class="wp-image-4435" style="width:94px" /></figure>
+                
+
+                
+                <p class="has-light-color-color has-text-color has-link-color wp-elements-6748404e7a93856fc9d2f9934733dc90">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                
+
+                
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-37 wp-block-group-is-layout-flex">
+                    <figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/testimonial_1.jpg" alt="" class="wp-image-2415" style="border-radius:50px;aspect-ratio:1;object-fit:cover;width:auto;height:60px" /></figure>
+                    
+
+                    
+                    <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-36 wp-block-group-is-layout-flex">
+                        <h5 class="wp-block-heading has-primary-color has-text-color has-link-color wp-elements-5e6e6ca2f7454a9395023262ee74925b" style="font-style:normal;font-weight:600">Henry Benzamin Clark</h5>
+                        
+
+                        
+                        <p class="has-foreground-alt-color has-text-color has-link-color wp-elements-37cbbd9273b54e4d95bcfaeab4e29100">Fitness Coach</p>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+
+        
+        <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+            <div class="wp-block-group saaslauncher-hover-box has-border-color has-border-color-border-color has-background-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-41 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:12px;margin-top:0;margin-bottom:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+                <figure class="wp-block-image size-full is-resized"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/rating_star.png" alt="" class="wp-image-4435" style="width:94px" /></figure>
+                
+
+                
+                <p class="has-light-color-color has-text-color has-link-color wp-elements-6748404e7a93856fc9d2f9934733dc90">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                
+
+                
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-40 wp-block-group-is-layout-flex">
+                    <figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/testimonial_2.jpg" alt="" class="wp-image-2415" style="border-radius:50px;aspect-ratio:1;object-fit:cover;width:auto;height:60px" /></figure>
+                    
+
+                    
+                    <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-39 wp-block-group-is-layout-flex">
+                        <h5 class="wp-block-heading has-primary-color has-text-color has-link-color wp-elements-4d13ecd2a378d21626eb8285007ec671" style="font-style:normal;font-weight:600">Lexy Coxtera</h5>
+                        
+
+                        
+                        <p class="has-foreground-alt-color has-text-color has-link-color wp-elements-130dce6935369985c95a9c5a616510b0">Content Writer</p>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+
+        
+        <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+            <div class="wp-block-group saaslauncher-hover-box has-border-color has-border-color-border-color has-background-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-44 wp-block-group-is-layout-constrained" style="border-width:1px;border-radius:12px;margin-top:0;margin-bottom:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+                <figure class="wp-block-image size-full is-resized"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/rating_star.png" alt="" class="wp-image-4435" style="width:94px" /></figure>
+                
+
+                
+                <p class="has-light-color-color has-text-color has-link-color wp-elements-6748404e7a93856fc9d2f9934733dc90">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                
+
+                
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-43 wp-block-group-is-layout-flex">
+                    <figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/testimonial_3.jpg" alt="" class="wp-image-2415" style="border-radius:50px;aspect-ratio:1;object-fit:cover;width:auto;height:60px" /></figure>
+                    
+
+                    
+                    <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-42 wp-block-group-is-layout-flex">
+                        <h5 class="wp-block-heading has-primary-color has-text-color has-link-color wp-elements-11fd4c4a75308972d8af96660cc1e260" style="font-style:normal;font-weight:600">Robert Mathew</h5>
+                        
+
+                        
+                        <p class="has-foreground-alt-color has-text-color has-link-color wp-elements-241f138d875d08d1bfa46305d9fd876a">Product Owner</p>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-buttons is-style-button-zoom-on-hover is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex" style="margin-top:64px">
+        <div class="wp-block-button has-custom-font-size" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.122), 16px);"><a class="wp-block-button__link has-gradient-twelve-gradient-background has-background wp-element-button" style="border-radius:60px;padding-top:16px;padding-right:28px;padding-bottom:16px;padding-left:28px">View All Reviews</a></div>
+        
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group has-gradient-six-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-55 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:7rem;padding-left:var(--wp--preset--spacing--40)">
+    <div class="wp-block-group is-content-justification-center is-layout-constrained wp-container-core-group-is-layout-46 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:64px">
+        <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color has-xx-large-font-size wp-elements-3f79f632215759e5cd8237e490533928" style="font-style:normal;font-weight:800">Latest News &amp; Articles</h1>
+        
+
+        
+        <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color wp-elements-401251d20272db812659de0695f8b75e">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        
+    </div>
+    
+
+    
+    <div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="columns-2 wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-1 wp-block-post-template-is-layout-grid"><li class="wp-block-post post-73 post type-post status-publish format-standard has-post-thumbnail hentry category-uudis tag-ipsum tag-lorem tag-uudised">
+        
+        <div class="wp-block-group is-style-default is-layout-constrained wp-container-core-group-is-layout-50 wp-block-group-is-layout-constrained" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+            <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left" style="border-radius:24px;margin-bottom:0px;min-height:450px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#2b342e"></span>
+                <img width="300" height="300" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/ab67616d00001e026378cb4f1c63eaf765a094b2.jpg" class="wp-block-cover__image-background wp-post-image" alt="" data-object-fit="cover" decoding="async" fetchpriority="high" srcset="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/ab67616d00001e026378cb4f1c63eaf765a094b2.jpg 300w, https://arturpetrovski23.thkit.ee/portfolio1/wp-content/uploads/2024/12/ab67616d00001e026378cb4f1c63eaf765a094b2-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+                    <p class="has-text-align-center has-large-font-size"></p>
+                    
+                </div>
+            </div>
+            
+
+            
+            <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-49 wp-block-group-is-layout-constrained" style="margin-top:40px;margin-bottom:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-47 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0"><div style="font-style:normal;font-weight:500;text-transform:uppercase" class="taxonomy-category is-style-categories-background-with-round wp-block-post-terms has-small-font-size"><a href="https://arturpetrovski23.thkit.ee/portfolio1/category/uudis/" rel="tag">Uudis</a></div></div>
+                
+
+                <h3 style="font-size:clamp(21.027px, 1.314rem + ((1vw - 3.2px) * 0.791), 34px);font-style:normal;font-weight:700;line-height:1.5; margin-top:3px;" class="has-link-color wp-elements-a4edf4510e5e14265cc3bd03166b4fbb wp-block-post-title"><a href="https://arturpetrovski23.thkit.ee/portfolio1/uudised/" target="_self" >Uudised</a></h3>
+
+                
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-48 wp-block-group-is-layout-flex" style="margin-top:16px"><div style="text-transform:capitalize;" class="has-link-color is-style-author-name-with-icon wp-elements-4a952dd4a6beb8b1c74f8ee3e0dbf1a9 wp-block-post-author-name has-text-color has-meta-color-color">Artur Petrovski</div>
+
+                    <div class="has-link-color is-style-post-date-with-icon wp-elements-c3f3f2cb0abd5678f270c10ad2005cc1 wp-block-post-date has-text-color has-meta-color-color"><time datetime="2024-12-10T10:26:04+02:00">10/12/2024</time></div>
+                </div>
+                
+
+                <div class="has-link-color wp-elements-6f060ad84848ef3a690c48b38fb25305 wp-block-post-excerpt has-text-color has-foreground-alt-color"><p class="wp-block-post-excerpt__excerpt">DARIUS MORSE CODE STIM Vestibulum vehicula nisi nec nulla luctus, eget scelerisque libero efficitur. Integer lacinia erat a metus varius auctor. </p></div>
+            </div>
+            
+        </div>
+        
+        </li><li class="wp-block-post post-68 post type-post status-publish format-standard hentry category-uncategorized tag-ipsum tag-lorem">
+        
+        <div class="wp-block-group is-style-default is-layout-constrained wp-container-core-group-is-layout-54 wp-block-group-is-layout-constrained" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+            <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left" style="border-radius:24px;margin-bottom:0px;min-height:450px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#2b342e"></span>
+                <div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+                    <p class="has-text-align-center has-large-font-size"></p>
+                    
+                </div>
+            </div>
+            
+
+            
+            <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-53 wp-block-group-is-layout-constrained" style="margin-top:40px;margin-bottom:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-51 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0"><div style="font-style:normal;font-weight:500;text-transform:uppercase" class="taxonomy-category is-style-categories-background-with-round wp-block-post-terms has-small-font-size"><a href="https://arturpetrovski23.thkit.ee/portfolio1/category/uncategorized/" rel="tag">Uncategorized</a></div></div>
+                
+
+                <h3 style="font-size:clamp(21.027px, 1.314rem + ((1vw - 3.2px) * 0.791), 34px);font-style:normal;font-weight:700;line-height:1.5; margin-top:3px;" class="has-link-color wp-elements-a4edf4510e5e14265cc3bd03166b4fbb wp-block-post-title"><a href="https://arturpetrovski23.thkit.ee/portfolio1/lorem-ipsum/" target="_self" >Lorem ipsum</a></h3>
+
+                
+                <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-52 wp-block-group-is-layout-flex" style="margin-top:16px"><div style="text-transform:capitalize;" class="has-link-color is-style-author-name-with-icon wp-elements-4a952dd4a6beb8b1c74f8ee3e0dbf1a9 wp-block-post-author-name has-text-color has-meta-color-color">Artur Petrovski</div>
+
+                    <div class="has-link-color is-style-post-date-with-icon wp-elements-c3f3f2cb0abd5678f270c10ad2005cc1 wp-block-post-date has-text-color has-meta-color-color"><time datetime="2024-12-10T09:46:32+02:00">10/12/2024</time></div>
+                </div>
+                
+
+                <div class="has-link-color wp-elements-6f060ad84848ef3a690c48b38fb25305 wp-block-post-excerpt has-text-color has-foreground-alt-color"><p class="wp-block-post-excerpt__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Inceptos himenaeos penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,&hellip; </p></div>
+            </div>
+            
+        </div>
+        
+        </li></ul>
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group has-background-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-57 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:7rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:7rem;padding-left:var(--wp--preset--spacing--40)">
+    <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color wp-elements-3af95b41fbfa0f6351ad82cff137d3d0">FAQ</h1>
+    
+
+    
+    <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color wp-elements-e84250e21debb3f6c0644b4adc3f0bc8">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+    
+
+    
+    <div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-56 wp-block-group-is-layout-constrained" style="margin-top:44px">
+        <details class="wp-block-details has-border-color has-light-color-border-color has-light-color-color has-text-color has-link-color wp-elements-cd828e316e0a710c0fd12122bb85424a wp-container-content-1 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>What is Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">Full Site Editing in WordPress allows users to create and edit their website more efficiently and with more control. It enables users to create unique and custom designs without needing to have advanced coding skills.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-738b1e45a828f7c67cd024aea0d44e2a wp-container-content-2 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>What are the benefits of Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">Full Site Editing in WordPress refers to a feature that allows users to create and edit their website’s entire layout, including the header, footer, and other structural elements, using a visual editor.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-b4f0a320f831bb2394d97e70f2b5a354 wp-container-content-3 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>How do I enable Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">To enable Full Site Editing in WordPress, you need to ensure that you are using a compatible WordPress theme that supports Full Site Editing. You will also need to install the latest version of WordPress and enable the Gutenberg editor.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-738b1e45a828f7c67cd024aea0d44e2a wp-container-content-4 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>What are the benefits of Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">Full Site Editing in WordPress refers to a feature that allows users to create and edit their website’s entire layout, including the header, footer, and other structural elements, using a visual editor.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-b4f0a320f831bb2394d97e70f2b5a354 wp-container-content-5 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>How do I enable Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">To enable Full Site Editing in WordPress, you need to ensure that you are using a compatible WordPress theme that supports Full Site Editing. You will also need to install the latest version of WordPress and enable the Gutenberg editor.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-66b4c1405be8939841b9770a5d9f1802 wp-container-content-6 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>What are some popular WordPress themes that support Full Site Editing?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">Some popular WordPress themes that support Full Site Editing include the FotaWP Theme, ReviveNews Theme, and the Hello Agency Theme. These themes have built-in support for Full Site Editing, allowing users to create custom designs without needing to know how to code.</p>
+            
+        </details>
+        
+
+        
+        <details class="wp-block-details has-light-color-color has-text-color has-link-color wp-elements-738b1e45a828f7c67cd024aea0d44e2a wp-container-content-7 is-layout-flow wp-block-details-is-layout-flow" style="border-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);font-style:normal;font-weight:600">
+            <summary>What are the benefits of Full Site Editing in WordPress?</summary>
+            <p class="has-normal-font-size" style="font-style:normal;font-weight:400">Full Site Editing in WordPress refers to a feature that allows users to create and edit their website’s entire layout, including the header, footer, and other structural elements, using a visual editor.</p>
+            
+        </details>
+        
+    </div>
+    
+</div>
+
+  
+<div class="wp-block-group has-dark-shade-background-color has-background is-layout-constrained wp-container-core-group-is-layout-58 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+    <div class="wp-block-cover wp-duotone-dark-secondary" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--40);min-height:580px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient has-gradient-four-gradient-background"></span><img class="wp-block-cover__image-background wp-image-7743" alt="" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/rocket.jpg" data-object-fit="cover" />
+        <div class="wp-block-cover__inner-container is-layout-constrained wp-container-core-cover-is-layout-6 wp-block-cover-is-layout-constrained">
+            <h1 class="wp-block-heading has-text-align-center has-light-color-color has-text-color has-link-color wp-elements-23fa5b0291b64bb2ac063733abce1cf4" style="font-size:clamp(35.2px, 2.2rem + ((1vw - 3.2px) * 1.756), 64px);font-style:normal;font-weight:800;line-height:1.4">Boost Your Online Presence Today!</h1>
+            
+
+            
+            <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color has-medium-font-size wp-elements-054f12c116343245ca33e1756dab3841">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+            
+
+            
+            <div class="wp-block-buttons is-style-button-zoom-on-hover is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex" style="margin-top:44px">
+                <div class="wp-block-button has-custom-font-size is-style-button-hover-secondary-bgcolor" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.244), 18px);"><a class="wp-block-button__link has-light-color-color has-gradient-twelve-gradient-background has-text-color has-background has-link-color wp-element-button" style="border-radius:60px;padding-top:24px;padding-right:40px;padding-bottom:24px;padding-left:40px">Schedule Quick Call</a></div>
+                
+            </div>
+            
+        </div>
+    </div>
+    
+</div>
+
+</main>
+
+
+<footer class="wp-block-template-part">
+<div class="wp-block-group saaslauncher-footer has-gradient-nine-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-65 wp-block-group-is-layout-constrained" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0">
+<div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-63 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:80px;padding-right:var(--wp--preset--spacing--40);padding-bottom:80px;padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex" style="margin-top:0px">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
+<div class="wp-block-group is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-61 wp-block-group-is-layout-constrained">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-60 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/images/saaslauncher.png" alt="" class="wp-image-8817" style="object-fit:cover;width:40px;height:40px"/></figure>
+
+
+<h3 style="font-size:clamp(17.905px, 1.119rem + ((1vw - 3.2px) * 0.616), 28px);" class="has-link-color wp-elements-888526bfa301e287496470f146aed637 wp-block-site-title"><a href="https://arturpetrovski23.thkit.ee/portfolio1" target="_self" rel="home" aria-current="page">Artur Petrovski Portfolio</a></h3></div>
+
+
+
+<p class="has-foreground-alt-color has-text-color has-link-color wp-elements-a32dd8143d9773185a5add3e97a4eac7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+
+
+
+<ul class="wp-block-social-links has-icon-color is-style-logos-only is-layout-flex wp-container-core-social-links-is-layout-1 wp-block-social-links-is-layout-flex" style="margin-bottom:0"><li style="color: #FFFFFE; " class="wp-social-link wp-social-link-instagram has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li>
+
+<li style="color: #FFFFFE; " class="wp-social-link wp-social-link-facebook has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li style="color: #FFFFFE; " class="wp-social-link wp-social-link-linkedin has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19.7,3H4.3C3.582,3,3,3.582,3,4.3v15.4C3,20.418,3.582,21,4.3,21h15.4c0.718,0,1.3-0.582,1.3-1.3V4.3 C21,3.582,20.418,3,19.7,3z M8.339,18.338H5.667v-8.59h2.672V18.338z M7.004,8.574c-0.857,0-1.549-0.694-1.549-1.548 c0-0.855,0.691-1.548,1.549-1.548c0.854,0,1.547,0.694,1.547,1.548C8.551,7.881,7.858,8.574,7.004,8.574z M18.339,18.338h-2.669 v-4.177c0-0.996-0.017-2.278-1.387-2.278c-1.389,0-1.601,1.086-1.601,2.206v4.249h-2.667v-8.59h2.559v1.174h0.037 c0.356-0.675,1.227-1.387,2.526-1.387c2.703,0,3.203,1.779,3.203,4.092V18.338z"></path></svg><span class="wp-block-social-link-label screen-reader-text">LinkedIn</span></a></li>
+
+<li style="color: #FFFFFE; " class="wp-social-link wp-social-link-vk has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22,7.1c0.2,0.4-0.4,1.5-1.6,3.1c-0.2,0.2-0.4,0.5-0.7,0.9c-0.5,0.7-0.9,1.1-0.9,1.4c-0.1,0.3-0.1,0.6,0.1,0.8 c0.1,0.1,0.4,0.4,0.8,0.9h0l0,0c1,0.9,1.6,1.7,2,2.3c0,0,0,0.1,0.1,0.1c0,0.1,0,0.1,0.1,0.3c0,0.1,0,0.2,0,0.4 c0,0.1-0.1,0.2-0.3,0.3c-0.1,0.1-0.4,0.1-0.6,0.1l-2.7,0c-0.2,0-0.4,0-0.6-0.1c-0.2-0.1-0.4-0.1-0.5-0.2l-0.2-0.1 c-0.2-0.1-0.5-0.4-0.7-0.7s-0.5-0.6-0.7-0.8c-0.2-0.2-0.4-0.4-0.6-0.6C14.8,15,14.6,15,14.4,15c0,0,0,0-0.1,0c0,0-0.1,0.1-0.2,0.2 c-0.1,0.1-0.2,0.2-0.2,0.3c-0.1,0.1-0.1,0.3-0.2,0.5c-0.1,0.2-0.1,0.5-0.1,0.8c0,0.1,0,0.2,0,0.3c0,0.1-0.1,0.2-0.1,0.2l0,0.1 c-0.1,0.1-0.3,0.2-0.6,0.2h-1.2c-0.5,0-1,0-1.5-0.2c-0.5-0.1-1-0.3-1.4-0.6s-0.7-0.5-1.1-0.7s-0.6-0.4-0.7-0.6l-0.3-0.3 c-0.1-0.1-0.2-0.2-0.3-0.3s-0.4-0.5-0.7-0.9s-0.7-1-1.1-1.6c-0.4-0.6-0.8-1.3-1.3-2.2C2.9,9.4,2.5,8.5,2.1,7.5C2,7.4,2,7.3,2,7.2 c0-0.1,0-0.1,0-0.2l0-0.1c0.1-0.1,0.3-0.2,0.6-0.2l2.9,0c0.1,0,0.2,0,0.2,0.1S5.9,6.9,5.9,7L6,7c0.1,0.1,0.2,0.2,0.3,0.3 C6.4,7.7,6.5,8,6.7,8.4C6.9,8.8,7,9,7.1,9.2l0.2,0.3c0.2,0.4,0.4,0.8,0.6,1.1c0.2,0.3,0.4,0.5,0.5,0.7s0.3,0.3,0.4,0.4 c0.1,0.1,0.3,0.1,0.4,0.1c0.1,0,0.2,0,0.3-0.1c0,0,0,0,0.1-0.1c0,0,0.1-0.1,0.1-0.2c0.1-0.1,0.1-0.3,0.1-0.5c0-0.2,0.1-0.5,0.1-0.8 c0-0.4,0-0.8,0-1.3c0-0.3,0-0.5-0.1-0.8c0-0.2-0.1-0.4-0.1-0.5L9.6,7.6C9.4,7.3,9.1,7.2,8.7,7.1C8.6,7.1,8.6,7,8.7,6.9 C8.9,6.7,9,6.6,9.1,6.5c0.4-0.2,1.2-0.3,2.5-0.3c0.6,0,1,0.1,1.4,0.1c0.1,0,0.3,0.1,0.3,0.1c0.1,0.1,0.2,0.1,0.2,0.3 c0,0.1,0.1,0.2,0.1,0.3s0,0.3,0,0.5c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.7c0,0.3,0,0.6,0,0.9c0,0.1,0,0.2,0,0.4c0,0.2,0,0.4,0,0.5 c0,0.1,0,0.3,0,0.4s0.1,0.3,0.1,0.4c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0,0.1,0,0.2,0c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.2-0.2,0.4-0.4 s0.3-0.4,0.5-0.7c0.2-0.3,0.5-0.7,0.7-1.1c0.4-0.7,0.8-1.5,1.1-2.3c0-0.1,0.1-0.1,0.1-0.2c0-0.1,0.1-0.1,0.1-0.1l0,0l0.1,0 c0,0,0,0,0.1,0s0.2,0,0.2,0l3,0c0.3,0,0.5,0,0.7,0S21.9,7,21.9,7L22,7.1z"></path></svg><span class="wp-block-social-link-label screen-reader-text">VK</span></a></li>
+
+<li style="color: #FFFFFE; " class="wp-social-link wp-social-link-x has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z" /></svg><span class="wp-block-social-link-label screen-reader-text">X</span></a></li>
+
+<li style="color: #FFFFFE; " class="wp-social-link wp-social-link-youtube has-light-color-color wp-block-social-link"><a href="https://#" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li></ul>
+</div>
+</div>
+
+
+
+<div class="wp-block-column saaslauncher-footer-list is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading has-light-color-color has-text-color has-link-color has-medium-font-size wp-elements-3a2cc06bb65293513741e191ac345b95" style="font-style:normal;font-weight:600;text-transform:none">Quick Links</h3>
+
+
+
+<ul style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;line-height:2.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-link-color has-small-font-size wp-elements-152f1625c76304db31578eb5a59a79a1">
+<li><a href="#">About Us</a></li>
+
+
+
+<li><a href="/privacy-policy">Policy</a></li>
+
+
+
+<li><a href="#">Terms and Conditions</a></li>
+
+
+
+<li><a href="#">Career</a></li>
+
+
+
+<li><a href="#">Blog</a></li>
+
+
+
+<li><a href="#">Contact Us</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column saaslauncher-footer-list is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading has-light-color-color has-text-color has-link-color has-medium-font-size wp-elements-e4dd0a5974b240943dcfb08c4025a825" style="font-style:normal;font-weight:600;text-transform:none">Services</h3>
+
+
+
+<ul style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;line-height:2.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-link-color has-small-font-size wp-elements-60cf78d6f8980748a8c2b5ad7ef7ad09">
+<li><a href="#">SaaS Application</a></li>
+
+
+
+<li><a href="#">CRM Integration</a></li>
+
+
+
+<li><a href="#">UI/UX Design</a></li>
+
+
+
+<li><a href="#">Business Strategy</a></li>
+
+
+
+<li><a href="#">Digital Marketing</a></li>
+
+
+
+<li><a href="#">Branding</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column saaslauncher-footer-list is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading has-light-color-color has-text-color has-link-color has-medium-font-size wp-elements-bd2f3c54e1615e77826301a593e7b81f" style="font-style:normal;font-weight:600;text-transform:none">Contact Us</h3>
+
+
+
+<div class="wp-block-group saaslauncher-footer-list is-vertical is-layout-flex wp-container-core-group-is-layout-62 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-top:0px;padding-left:0px">
+<ul style="padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:0;padding-left:0;line-height:1.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-link-color has-small-font-size wp-elements-39108a909a43a6f1126b9790b5c3e21e">
+<li class="has-small-font-size"><a href="#">14th Street, Caltech, New Jersey, Alabama</a></li>
+</ul>
+
+
+
+<ul style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;line-height:1.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-foreground-alt-color has-text-color has-link-color has-small-font-size wp-elements-9e8f34f46ae1b55748f09e2ec969f65c">
+<li class="has-small-font-size">Monday &#8211; Friday8:00 a.m. &#8211; 5:00 p.m.</li>
+</ul>
+
+
+
+<ul style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;line-height:1.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-link-color has-small-font-size wp-elements-444394d4b09e36b5b14dbe426db19ee8">
+<li class="has-small-font-size"><a href="#">email@example.com</a></li>
+</ul>
+
+
+
+<ul style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;line-height:1.5;text-transform:none" class="wp-block-list is-style-hide-bullet-list-link-hover-style-white is-style-list-style-no-bullet has-link-color has-small-font-size wp-elements-3fe54ec4375f85d3f2af8e13d6585158">
+<li class="has-small-font-size"><a href="#">+1 (012) 345-6780</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-64 wp-block-group-is-layout-constrained" style="border-top-color:var(--wp--preset--color--border-color);border-top-width:1px;margin-top:0;margin-bottom:0;padding-top:32px;padding-right:var(--wp--preset--spacing--40);padding-bottom:32px;padding-left:var(--wp--preset--spacing--40)">
+<p class="has-text-align-center has-light-color-color has-text-color has-link-color has-normal-font-size wp-elements-f023b0f039f716373ed60c9903374c87" style="line-height:1.5">Proudly powered by WordPress | SaasLauncher by CozyThemes.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="margin-top:0;margin-bottom:0">
+<div class="wp-block-button saaslauncher-scrollto-top is-style-button-hover-secondary-bgcolor"><a class="wp-block-button__link has-foregound-alt-color has-tertiary-background-color has-text-color has-background wp-element-button" style="border-radius:50%">Scroll to Top</a></div>
+</div>
+</footer>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-light-secondary"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="1 0.17254901960784" /><feFuncG type="table" tableValues="1 0.12156862745098" /><feFuncB type="table" tableValues="1 0.89019607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-secondary-light"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.17254901960784 1" /><feFuncG type="table" tableValues="0.12156862745098 1" /><feFuncB type="table" tableValues="0.89019607843137 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-primary-light"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.015686274509804 1" /><feFuncG type="table" tableValues="0.83137254901961 1" /><feFuncB type="table" tableValues="0.74509803921569 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-secondary"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.17254901960784" /><feFuncG type="table" tableValues="0 0.12156862745098" /><feFuncB type="table" tableValues="0 0.89019607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><script id="wp-block-template-skip-link-js-after">
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		/*
+		 * Get the site wrapper.
+		 * The skip-link will be injected in the beginning of it.
+		 */
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Liigu sisu juurde';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	
+</script>
+<script src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/js/aos.js?ver=1.0.14" id="saaslauncher-aos-scripts-js"></script>
+<script src="https://arturpetrovski23.thkit.ee/portfolio1/wp-content/themes/saaslauncher/assets/js/saaslauncher-scripts.js?ver=1.0.14" id="saaslauncher-scripts-js"></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced 
+
+Served from: arturpetrovski23.thkit.ee @ 2024-12-10 14:35:59 by W3 Total Cache
+-->

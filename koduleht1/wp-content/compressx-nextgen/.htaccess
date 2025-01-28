@@ -1,0 +1,16 @@
+
+# BEGIN CompressX Webp
+# Käsud (read) "BEGIN CompressX Webp" ja "END CompressX Webp" vahel on
+# dünaamilselt genereeritud ja neid tuleks muuta üksnes WordPressi filtrite abil.
+# Kõik muudatused nende kahe markeri vahel kirjutatakse üle.
+<IfModule mod_mime.c>
+AddType image/avif .avif
+AddType image/webp .webp
+</IfModule>
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/avif "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+</IfModule>
+Options -Indexes
+# END CompressX Webp

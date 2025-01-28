@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="et">
+	<head>
+		<meta charset="utf-8">
+		<title>HTML Vormid</title>
+	</head>
+	<body>
+		<h1>Vormid</h1>
+		<form action="#" method="post">
+			<fieldset>
+				<legend>Kasutaja andmed</legend>
+				<label>
+					Kasutaja nimi:<br>
+					<input name="username" type="text" placeholder="siia kasutajanimi" maxlength="14"></br>
+				</label>
+				<label for="password" >Parool:</label><br>
+				<input name="password" type="password" placeholder="min 8 märki" required></br>
+				<label >E-kiri: </label><br>
+				<input name="ekiri" type="email" placeholder="emailile saadetakse kinnitus"></br>
+			</fieldset>
+			<fieldset>
+				<legend>Lisa info</legend>
+				<label>Veebiaadress: </label><br><input name="www" type="url"></br>
+			</fieldset>
+			<input value="Registreeru" name="reg" type="submit">
+			<input value="Puhasta väljad" name="clr" type="reset">
+		</form>
+		
+		<h2>Vormid</h2>
+		
+		<h3>Otsing</h3>
+		<form>
+			<input name="otsing" type="search" list="minu_valik" size="30">
+			<datalist id="minu_valik">
+				<option value="php õpetused">
+				<option value="css õpetused">
+				<option value="html õpetused">
+				<option value="javascript õpetused">
+			</datalist>
+ 
+			<input type="submit" value="Otsi">
+		</form>
+		
+		<h3>Mitmerealine tekstikast</h3>
+		<form>
+			<label>Essee<br>
+			<textarea rows="20" cols="50" name="essay">Siia pikem tekst</textarea></br>
+			</label>
+		</form>
+		
+		<h3>Ajaarvamine</h3>
+		
+		<form>
+			<label>Kuupäev ja kellaaeg:<input type="datetime"></label><br>
+			<label>Kuupäev: <input type="date"></label><br>
+			<label>Aasta ja kuu: <input type="month"></label><br>
+			<label>Aasta ja nädal: <input type="week"></label><br>
+			<label>Kellaeg: <input type="time"></label><br>
+			<label>Kohalik aeg: <input type="datetime-local"></label>
+		</form>
+		
+		<h3>Numbrid ja skaala</h3>
+		
+		<form>
+			<label>Vali number: </label>
+				<input type="number" value="1" min="1" max="5" step="0.5">
+			<label>Vali number: 
+				<input oninput="amount.value=vahemik.value" type="range" name="vahemik" value="-10" min="-10" max="10" step="2">
+			</label>
+			<output id="amount">-10</output>
+		</form>
+		
+		<h3>Loendid</h3>
+		
+		 <form>
+			<label for="color">Vali lemmik värv</label>
+			<select id="color" multiple oninput="colorInput.value=color.value size="4">
+				<option>Puudub</option>
+				<option value="FF0000">Punane</option>
+				<option value="00FF00" selected>Roheline</option>
+				<option value="FFFF00" selected>Kollane</option>
+			</select>
+			<input type="color" id="colorInput">
+		</form>
+		
+		<form>
+			<select size="3">
+				<option value="pun">Punane</option>
+				<option value="sin">Sinine</option>
+				<option value="kol">Kollane</option>
+			</select>
+		</form>
+		
+		<form>
+			<select size="3" multiple>
+				<option value="pun">Punane</option>
+				<option value="sin">Sinine</option>
+				<option value="kol">Kollane</option>
+			</select>
+		</form>
+		
+		<form>
+			<select>
+			<optgroup label="Soojad toonid">
+			  <option value="roh">Roheline</option>
+			  <option value="sin">Sinine</option>
+			  <option value="vio">Violett</option>
+			</optgroup>
+			<optgroup label="Külmad toonid">
+			  <option value="kol">Kollane</option>
+			  <option value="ora">Oranž</option>
+			  <option value="pun">Punane</option>
+			</optgroup>
+			</select>
+		</form>
+		
+		<h3>Valikukastid</h3>
+		<h4>1</h4>
+		<form>
+		  <input type="checkbox" name="varv" value="pun">Punane<br>
+		  <input type="checkbox" name="varv" value="sin">Sinine<br>
+		  <input type="checkbox" name="varv" value="kol" checked="yes">Kollane<br>
+		  <input type="checkbox" name="varv" value="lil">Lilla
+		  <input type="submit" value="saada">
+		</form>
+		<h4>2</h4>
+		<form>
+		  <input type="radio" name="varv" value="pun">Punane<br>
+		  <input type="radio" name="varv" value="sin">Sinine<br>
+		  <input type="radio" name="varv" value="kol" checked="yes">Kollane<br>
+		  <input type="radio" name="varv" value="lil">Lilla
+		</form>
+		<h4>3</h4>
+		<form>
+		  <input type="radio" name="kylmvarv" value="roh">Roheline<br>
+		  <input type="radio" name="kylmvarv" value="sin">Sinine<br>
+		  <input type="radio" name="kylmvarv" value="vio">Violett<br>
+		  <hr>
+		  <input type="radio" name="soevarv" value="kol">Kollane<br>
+		  <input type="radio" name="soevarv" value="ora">Oranž<br>
+		  <input type="radio" name="soevarv" value="pun">Punane
+		</form>
+	</body>
+</html>

@@ -1,0 +1,562 @@
+0000.000 (0) Opened log file at time: Thu, 16 Jan 2025 02:45:56 +0000 on https://arturpetrovski23.thkit.ee/portfolio1
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.1 PHP: 8.3.14 (cgi-fcgi, Linux dn-68-118.tll01.zoneas.eu 5.15.138-zoneos #1 SMP Wed Nov 15 10:55:18 -00 2023 x86_64) MySQL: 10.4.34-MariaDB-log (max packet size=134217728) WPLANG: et Server: Apache / ZoneOS safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 10.4M | 14M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG: C.UTF-8 ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 196081.3 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.004 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.013 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1736862350, seconds_ago=133206)
+0000.016 (0) Set semaphore last lock (fd) time to 2025-01-16 02:45:56
+0000.017 (0) Semaphore lock (fd) complete
+0000.020 (0) Backup run: resumption=0, nonce=819f52850851, file_nonce=819f52850851 begun at=1736995556 (0s ago), job type=backup
+0000.021 (0) Scheduling a resumption (1) after 300 seconds (1736995856) in case this run gets aborted
+0000.042 (0) Checking if we have a zip executable available
+0000.043 (0) Testing: /usr/bin/zip
+0000.047 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.048 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.049 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.050 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.050 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.055 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.056 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.068 (0) Working binary zip found: /usr/bin/zip
+0000.069 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.070 (0) Creation of backups of directories: beginning
+0000.073 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.329 (0) Total entities for the zip file: 3442 directories, 12047 files (0 skipped as non-modified), 159.1 MB
+0000.333 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.336 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.338 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.340 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.342 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.345 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.347 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.348 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.351 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.353 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.354 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.6 MB, 12047 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.029 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: size is now: 4.20 MB
+0001.032 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1100 files added (on-disk size: 4351.2 KB)
+0001.034 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1200 files added (on-disk size: 4351.2 KB)
+0001.036 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1300 files added (on-disk size: 4351.2 KB)
+0001.038 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1400 files added (on-disk size: 4351.2 KB)
+0001.040 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1500 files added (on-disk size: 4351.2 KB)
+0001.042 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1600 files added (on-disk size: 4351.2 KB)
+0001.044 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1700 files added (on-disk size: 4351.2 KB)
+0001.046 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1800 files added (on-disk size: 4351.2 KB)
+0001.048 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 1900 files added (on-disk size: 4351.2 KB)
+0001.050 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2000 files added (on-disk size: 4351.2 KB)
+0001.051 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.5 MB, 12047 files batched, 1001 (2002) added so far); re-opening (prior size: 4351.2 KB)
+0001.349 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: size is now: 8.70 MB
+0001.353 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2100 files added (on-disk size: 8870.3 KB)
+0001.355 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2200 files added (on-disk size: 8870.3 KB)
+0001.357 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2300 files added (on-disk size: 8870.3 KB)
+0001.359 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2400 files added (on-disk size: 8870.3 KB)
+0001.361 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2500 files added (on-disk size: 8870.3 KB)
+0001.363 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2600 files added (on-disk size: 8870.3 KB)
+0001.365 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2700 files added (on-disk size: 8870.3 KB)
+0001.367 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2800 files added (on-disk size: 8870.3 KB)
+0001.369 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 2900 files added (on-disk size: 8870.3 KB)
+0001.371 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3000 files added (on-disk size: 8870.3 KB)
+0001.371 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (20.7 MB, 12047 files batched, 1001 (3003) added so far); re-opening (prior size: 8870.3 KB)
+0002.297 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: size is now: 17.00 MB
+0002.302 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3100 files added (on-disk size: 17444.4 KB)
+0002.304 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3200 files added (on-disk size: 17444.4 KB)
+0002.306 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3300 files added (on-disk size: 17444.4 KB)
+0002.308 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3400 files added (on-disk size: 17444.4 KB)
+0002.311 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3500 files added (on-disk size: 17444.4 KB)
+0002.313 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3600 files added (on-disk size: 17444.4 KB)
+0002.315 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3700 files added (on-disk size: 17444.4 KB)
+0002.318 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3800 files added (on-disk size: 17444.4 KB)
+0002.320 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 3900 files added (on-disk size: 17444.4 KB)
+0002.322 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4000 files added (on-disk size: 17444.4 KB)
+0002.322 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.2 MB, 12047 files batched, 1001 (4004) added so far); re-opening (prior size: 17444.4 KB)
+0002.981 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: size is now: 21.20 MB
+0002.984 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4100 files added (on-disk size: 21692.4 KB)
+0002.986 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4200 files added (on-disk size: 21692.4 KB)
+0002.989 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4300 files added (on-disk size: 21692.4 KB)
+0002.991 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4400 files added (on-disk size: 21692.4 KB)
+0002.994 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4500 files added (on-disk size: 21692.4 KB)
+0002.996 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4600 files added (on-disk size: 21692.4 KB)
+0002.999 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4700 files added (on-disk size: 21692.4 KB)
+0003.001 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4800 files added (on-disk size: 21692.4 KB)
+0003.003 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 4900 files added (on-disk size: 21692.4 KB)
+0003.005 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5000 files added (on-disk size: 21692.4 KB)
+0003.006 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.3 MB, 12047 files batched, 1001 (5005) added so far); re-opening (prior size: 21692.4 KB)
+0003.658 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5100 files added (on-disk size: 23801.9 KB)
+0003.660 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5200 files added (on-disk size: 23801.9 KB)
+0003.663 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5300 files added (on-disk size: 23801.9 KB)
+0003.665 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5400 files added (on-disk size: 23801.9 KB)
+0003.667 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5500 files added (on-disk size: 23801.9 KB)
+0003.669 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5600 files added (on-disk size: 23801.9 KB)
+0003.671 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5700 files added (on-disk size: 23801.9 KB)
+0003.674 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5800 files added (on-disk size: 23801.9 KB)
+0003.676 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 5900 files added (on-disk size: 23801.9 KB)
+0003.678 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6000 files added (on-disk size: 23801.9 KB)
+0003.679 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.9 MB, 12047 files batched, 1001 (6006) added so far); re-opening (prior size: 23801.9 KB)
+0004.421 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6100 files added (on-disk size: 26122.8 KB)
+0004.423 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6200 files added (on-disk size: 26122.8 KB)
+0004.425 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6300 files added (on-disk size: 26122.8 KB)
+0004.427 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6400 files added (on-disk size: 26122.8 KB)
+0004.429 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6500 files added (on-disk size: 26122.8 KB)
+0004.431 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6600 files added (on-disk size: 26122.8 KB)
+0004.434 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6700 files added (on-disk size: 26122.8 KB)
+0004.436 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6800 files added (on-disk size: 26122.8 KB)
+0004.437 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 6900 files added (on-disk size: 26122.8 KB)
+0004.439 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7000 files added (on-disk size: 26122.8 KB)
+0004.440 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.4 MB, 12047 files batched, 1001 (7007) added so far); re-opening (prior size: 26122.8 KB)
+0004.868 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7100 files added (on-disk size: 27652.1 KB)
+0004.870 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7200 files added (on-disk size: 27652.1 KB)
+0004.872 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7300 files added (on-disk size: 27652.1 KB)
+0004.874 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7400 files added (on-disk size: 27652.1 KB)
+0004.876 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7500 files added (on-disk size: 27652.1 KB)
+0004.878 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7600 files added (on-disk size: 27652.1 KB)
+0004.880 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7700 files added (on-disk size: 27652.1 KB)
+0004.882 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7800 files added (on-disk size: 27652.1 KB)
+0004.884 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 7900 files added (on-disk size: 27652.1 KB)
+0004.886 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8000 files added (on-disk size: 27652.1 KB)
+0004.887 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.5 MB, 12047 files batched, 1001 (8008) added so far); re-opening (prior size: 27652.1 KB)
+0005.318 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8100 files added (on-disk size: 30791.9 KB)
+0005.320 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8200 files added (on-disk size: 30791.9 KB)
+0005.322 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8300 files added (on-disk size: 30791.9 KB)
+0005.324 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8400 files added (on-disk size: 30791.9 KB)
+0005.326 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8500 files added (on-disk size: 30791.9 KB)
+0005.328 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8600 files added (on-disk size: 30791.9 KB)
+0005.330 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8700 files added (on-disk size: 30791.9 KB)
+0005.331 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8800 files added (on-disk size: 30791.9 KB)
+0005.333 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 8900 files added (on-disk size: 30791.9 KB)
+0005.335 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9000 files added (on-disk size: 30791.9 KB)
+0005.336 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.7 MB, 12047 files batched, 1001 (9009) added so far); re-opening (prior size: 30791.9 KB)
+0006.538 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: size is now: 37.10 MB
+0006.541 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9100 files added (on-disk size: 38020.2 KB)
+0006.544 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9200 files added (on-disk size: 38020.2 KB)
+0006.546 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9300 files added (on-disk size: 38020.2 KB)
+0006.548 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9400 files added (on-disk size: 38020.2 KB)
+0006.551 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9500 files added (on-disk size: 38020.2 KB)
+0006.554 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9600 files added (on-disk size: 38020.2 KB)
+0006.556 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9700 files added (on-disk size: 38020.2 KB)
+0006.559 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9800 files added (on-disk size: 38020.2 KB)
+0006.561 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 9900 files added (on-disk size: 38020.2 KB)
+0006.564 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10000 files added (on-disk size: 38020.2 KB)
+0006.565 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.3 MB, 12047 files batched, 1001 (10010) added so far); re-opening (prior size: 38020.2 KB)
+0007.478 (0) PHP event: code E_WARNING: filesize(): stat failed for /data01/virt131977/domeenid/www.arturpetrovski23.thkit.ee/htdocs/portfolio1/wp-content/updraft/backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp (line 506, wp-content/plugins/updraftplus/includes/class-zip.php)
+0007.492 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10100 files added (on-disk size: 41448.3 KB)
+0007.495 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10200 files added (on-disk size: 41448.3 KB)
+0007.497 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10300 files added (on-disk size: 41448.3 KB)
+0007.500 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10400 files added (on-disk size: 41448.3 KB)
+0007.503 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10500 files added (on-disk size: 41448.3 KB)
+0007.506 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10600 files added (on-disk size: 41448.3 KB)
+0007.508 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10700 files added (on-disk size: 41448.3 KB)
+0007.510 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10800 files added (on-disk size: 41448.3 KB)
+0007.513 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 10900 files added (on-disk size: 41448.3 KB)
+0007.515 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11000 files added (on-disk size: 41448.3 KB)
+0007.516 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12 MB, 12047 files batched, 1001 (11011) added so far); re-opening (prior size: 41448.3 KB)
+0008.265 (0) PHP event: code E_WARNING: filesize(): stat failed for /data01/virt131977/domeenid/www.arturpetrovski23.thkit.ee/htdocs/portfolio1/wp-content/updraft/backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp (line 506, wp-content/plugins/updraftplus/includes/class-zip.php)
+0008.280 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11100 files added (on-disk size: 47487.1 KB)
+0008.283 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11200 files added (on-disk size: 47487.1 KB)
+0008.286 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11300 files added (on-disk size: 47487.1 KB)
+0008.289 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11400 files added (on-disk size: 47487.1 KB)
+0008.292 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11500 files added (on-disk size: 47487.1 KB)
+0008.295 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11600 files added (on-disk size: 47487.1 KB)
+0008.298 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11700 files added (on-disk size: 47487.1 KB)
+0008.301 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11800 files added (on-disk size: 47487.1 KB)
+0008.304 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 11900 files added (on-disk size: 47487.1 KB)
+0008.306 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.tmp: 12000 files added (on-disk size: 47487.1 KB)
+0008.306 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17 MB, 12047 files batched, 1001 (12012) added so far); re-opening (prior size: 47487.1 KB)
+0009.689 (0) Creating zip file manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.list-temp.tmp)
+0009.720 (0) Successfully created zip file manifest (size: 1095319)
+0010.260 (0) Created plugins zip (0) - 52734.4 KB in 10.2 s (5177.3 KB/s) (sha1: 2a670fd1dbb41a5c71f746cc81992bc2e5bbd6e0, sha256: 13a7cc1fa419c26bc127f1c4a3243fcd6b5ba4b87bb115b05c536b3bde8ef2f5)
+0010.324 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0010.328 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0011.936 (0) Google Drive: quota usage: used=325.7 MB, total=15360 MB, available=15034.3 MB
+0011.937 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0013.598 (0) Googledrive chunked upload: 1.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 13.3 / 32)
+0014.747 (0) Googledrive chunked upload: 5.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 13.3 / 32)
+0015.928 (0) Googledrive chunked upload: 13.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 13.3 / 32)
+0017.190 (0) Googledrive chunked upload: 29.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 13.3 / 32)
+0018.691 (0) Googledrive chunked upload: 60.2 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 13.3 / 32)
+0021.434 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0021.437 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip uploaded in 9.5 seconds
+0021.438 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip
+0021.449 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip: OK
+0021.454 (0) Beginning creation of dump of themes (split every: 400 MB)
+0021.472 (0) Total entities for the zip file: 100 directories, 671 files (0 skipped as non-modified), 26.4 MB
+0021.475 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.477 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.479 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0021.481 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0021.483 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0021.486 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0021.488 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.1 MB, 671 files batched, 653 (653) added so far); re-opening (prior size: 0 KB)
+0022.703 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.tmp: size is now: 19.70 MB
+0022.705 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 2.2 s, rate: 11681.6 KB/s)
+0022.706 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1967480182648, normalised_time=2.1914864077371, max_time=22.705438137054, data points known=1, old_max_bytes=26214400, new_max_bytes=162960473)
+0022.866 (0) Creating zip file manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.list-temp.tmp)
+0022.869 (0) Successfully created zip file manifest (size: 45946)
+0023.156 (0) Created themes zip (0) - 21520 KB in 1.7 s (12659.2 KB/s) (sha1: 9f388484a72e36bc2281bcfa635c8f9fa410f08d, sha256: 98f968f243f4bb1e1974e814d04f958acdf9f4d3d13f2c64adeda19550fb3ac2)
+0023.159 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0023.160 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0023.583 (0) Google Drive: quota usage: used=377.2 MB, total=15360 MB, available=14982.8 MB
+0023.618 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0025.236 (0) Googledrive chunked upload: 4.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 11.4 / 30)
+0026.388 (0) Googledrive chunked upload: 14.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 11.4 / 30)
+0027.875 (0) Googledrive chunked upload: 33.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 11.4 / 30)
+0029.263 (0) Googledrive chunked upload: 71.4 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 11.4 / 30)
+0031.741 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0031.744 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip uploaded in 8.09 seconds
+0031.745 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip
+0031.749 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip: OK
+0031.752 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0031.752 (0) Looking for candidates to backup in: /data01/virt131977/domeenid/www.arturpetrovski23.thkit.ee/htdocs/portfolio1/wp-content/uploads
+0031.753 (0) finding files: smush-webp-test.png: adding to list (1)
+0031.753 (0) finding files: ithemes-security: adding to list (2)
+0031.753 (0) finding files: smush: adding to list (3)
+0031.754 (0) finding files: 2025: adding to list (4)
+0031.755 (0) finding files: 2024: adding to list (5)
+0031.755 (0) finding files: et_temp: adding to list (6)
+0031.755 (0) finding files: wpforms: adding to list (7)
+0031.756 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0031.761 (0) Total entities for the zip file: 12 directories, 174 files (0 skipped as non-modified), 22.4 MB
+0031.763 (0) Zip: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0032.064 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip.tmp: size is now: 20.80 MB
+0032.068 (0) Creating zip file manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip.list-temp.tmp)
+0032.069 (0) Successfully created zip file manifest (size: 12963)
+0032.243 (0) Created uploads zip (0) - 21288 KB in 0.5 s (43843.6 KB/s) (sha1: 7db260a9b724be05132ed12b5a5e2d29fc169eab, sha256: 081fac5366ba77db09bf3b3416767f1a20dbf63a288775bd420c032ef4e8c575)
+0032.246 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0032.247 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0032.661 (0) Google Drive: quota usage: used=398.2 MB, total=15360 MB, available=14961.8 MB
+0032.662 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0034.227 (0) Googledrive chunked upload: 4.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 11.4 / 30)
+0035.472 (0) Googledrive chunked upload: 14.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 11.4 / 30)
+0036.644 (0) Googledrive chunked upload: 33.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 11.4 / 30)
+0037.974 (0) Googledrive chunked upload: 72.2 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 11.4 / 30)
+0040.399 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0040.401 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip uploaded in 7.74 seconds
+0040.402 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip
+0040.407 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip: OK
+0040.410 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0040.413 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0040.419 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip.tmp: size is now: 0.00 MB
+0040.420 (0) Creating zip file manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip.list-temp.tmp)
+0040.421 (0) Successfully created zip file manifest (size: 77)
+0040.424 (0) Created mu-plugins zip (0) - 0.8 KB in 0 s (67.7 KB/s) (sha1: 98bcb24b28cf0fd379ffa661c40883395b9fdad0, sha256: 66c02cba314908947d14fc00bcaaa1e03383a74bcc31d62dfe35fc4ab4a79fe1)
+0040.427 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0040.428 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0040.848 (0) Google Drive: quota usage: used=419 MB, total=15360 MB, available=14941 MB
+0040.849 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0042.976 (0) Googledrive chunked upload: 100 % uploaded
+0042.978 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip uploaded in 2.13 seconds
+0042.979 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip
+0042.980 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip: OK
+0042.983 (0) Beginning backup of other directories found in the content directory (index: 0)
+0042.984 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0042.984 (0) Looking for candidates to backup in: /data01/virt131977/domeenid/www.arturpetrovski23.thkit.ee/htdocs/portfolio1/wp-content
+0042.985 (0) finding files: smush-webp: adding to list (1)
+0042.985 (0) finding files: languages: adding to list (2)
+0042.986 (0) finding files: updraft: skipping: this is the updraft directory
+0042.986 (0) finding files: uploads: skipping: this is the uploads directory
+0042.987 (0) finding files: themes: skipping: this is the themes directory
+0042.987 (0) finding files: upgrade: skipping: excluded by options
+0042.988 (0) finding files: index.php: adding to list (3)
+0042.988 (0) finding files: upgrade-temp-backup: adding to list (4)
+0042.989 (0) finding files: cache: skipping: excluded by options
+0042.989 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0042.990 (0) finding files: w3tc-config: adding to list (5)
+0042.990 (0) finding files: plugins: skipping: this is the plugins directory
+0042.991 (0) finding files: advanced-cache.php: adding to list (6)
+0042.994 (0) Total entities for the zip file: 7 directories, 92 files (0 skipped as non-modified), 3.4 MB
+0043.159 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip.tmp: size is now: 1.00 MB
+0043.161 (0) Creating zip file manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip.list-temp.tmp)
+0043.162 (0) Successfully created zip file manifest (size: 5137)
+0043.261 (0) Created others zip (0) - 1027.6 KB in 0.2 s (4362.5 KB/s) (sha1: 5449e90fa84c1fb0b8e256e6ed0ebcb40eda0116, sha256: 2dcf3b77b3db6402b698917c7f9b1618b5a2b57a2551d3ee79e7acf85e654f0b)
+0043.265 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0043.266 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0043.694 (0) Google Drive: quota usage: used=419 MB, total=15360 MB, available=14941 MB
+0043.694 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0045.216 (0) Googledrive chunked upload: 99.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 11.4 / 30)
+0046.661 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0046.664 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip uploaded in 2.97 seconds
+0046.664 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip
+0046.666 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip: OK
+0046.670 (0) Saving backup status to database (elements: 10)
+0046.673 (0) Beginning creation of database dump (WordPress DB)
+0046.674 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER
+0046.681 (0) Table fc48_options: Total expected rows (via COUNT): 315
+0046.682 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.693 (0) Table fc48_options: Rows added in this batch (next record: 4388): 311 (uncompressed bytes in this segment=268238) in 0.01 seconds
+0046.697 (0) Table fc48_options: finishing file(s) (2, 61.5 KB)
+0046.699 (0) Table fc48_users: Total expected rows (via COUNT): 2
+0046.700 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.702 (0) Table fc48_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1351) in 0.00 seconds
+0046.704 (0) Table fc48_users: finishing file(s) (2, 0.7 KB)
+0046.708 (0) Table fc48_usermeta: Total expected rows (via COUNT): 56
+0046.709 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.711 (0) Table fc48_usermeta: Rows added in this batch (next record: 61): 56 (uncompressed bytes in this segment=5194) in 0.00 seconds
+0046.714 (0) Table fc48_usermeta: finishing file(s) (2, 1.9 KB)
+0046.718 (0) Table fc48_actionscheduler_actions: Total expected rows (via COUNT): 70
+0046.719 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.721 (0) Table fc48_actionscheduler_actions: Rows added in this batch (next record: 96): 70 (uncompressed bytes in this segment=31371) in 0.01 seconds
+0046.725 (0) Table fc48_actionscheduler_actions: finishing file(s) (2, 2.6 KB)
+0046.728 (0) Table fc48_actionscheduler_claims: Total expected rows (via COUNT): 0
+0046.730 (0) Table fc48_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.00 seconds
+0046.732 (0) Table fc48_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0046.735 (0) Table fc48_actionscheduler_groups: Total expected rows (via COUNT): 2
+0046.735 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.737 (0) Table fc48_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=689) in 0.00 seconds
+0046.740 (0) Table fc48_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0046.742 (0) Table fc48_actionscheduler_logs: Total expected rows (via COUNT): 198
+0046.743 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.746 (0) Table fc48_actionscheduler_logs: Rows added in this batch (next record: 246): 198 (uncompressed bytes in this segment=17870) in 0.01 seconds
+0046.749 (0) Table fc48_actionscheduler_logs: finishing file(s) (2, 2.1 KB)
+0046.755 (0) Table fc48_commentmeta: Total expected rows (via COUNT): 0
+0046.757 (0) Table fc48_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.00 seconds
+0046.761 (0) Table fc48_commentmeta: finishing file(s) (2, 0.4 KB)
+0046.765 (0) Table fc48_comments: Total expected rows (via COUNT): 2
+0046.766 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.768 (0) Table fc48_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2205) in 0.00 seconds
+0046.770 (0) Table fc48_comments: finishing file(s) (2, 0.9 KB)
+0046.775 (0) Table fc48_itsec_bans: Total expected rows (via COUNT): 0
+0046.777 (0) Table fc48_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=733) in 0.00 seconds
+0046.779 (0) Table fc48_itsec_bans: finishing file(s) (2, 0.4 KB)
+0046.783 (0) Table fc48_itsec_dashboard_events: Total expected rows (via COUNT): 0
+0046.784 (0) Table fc48_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=793) in 0.00 seconds
+0046.786 (0) Table fc48_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0046.790 (0) Table fc48_itsec_dashboard_lockouts: Total expected rows (via COUNT): 0
+0046.791 (0) Table fc48_itsec_dashboard_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=644) in 0.00 seconds
+0046.794 (0) Table fc48_itsec_dashboard_lockouts: finishing file(s) (2, 0.4 KB)
+0046.799 (0) Table fc48_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0046.799 (0) Table fc48_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=832) in 0.00 seconds
+0046.803 (0) Table fc48_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0046.808 (0) Table fc48_itsec_fingerprints: Total expected rows (via COUNT): 0
+0046.808 (0) Table fc48_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1078) in 0.00 seconds
+0046.812 (0) Table fc48_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0046.815 (0) Table fc48_itsec_firewall_rules: Total expected rows (via COUNT): 0
+0046.816 (0) Table fc48_itsec_firewall_rules: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=847) in 0.00 seconds
+0046.818 (0) Table fc48_itsec_firewall_rules: finishing file(s) (2, 0.4 KB)
+0046.822 (0) Table fc48_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0046.823 (0) Table fc48_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=889) in 0.00 seconds
+0046.826 (0) Table fc48_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0046.829 (0) Table fc48_itsec_lockouts: Total expected rows (via COUNT): 0
+0046.830 (0) Table fc48_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1108) in 0.00 seconds
+0046.832 (0) Table fc48_itsec_lockouts: finishing file(s) (2, 0.4 KB)
+0046.836 (0) Table fc48_itsec_logs: Total expected rows (via COUNT): 31
+0046.837 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.840 (0) Table fc48_itsec_logs: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=12812) in 0.01 seconds
+0046.843 (0) Table fc48_itsec_logs: finishing file(s) (2, 2.7 KB)
+0046.848 (0) Table fc48_itsec_mutexes: Total expected rows (via COUNT): 0
+0046.849 (0) Table fc48_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=598) in 0.00 seconds
+0046.852 (0) Table fc48_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0046.856 (0) Table fc48_itsec_opaque_tokens: Total expected rows (approximate): 0
+0046.857 (0) Table fc48_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=655) in 0.00 seconds
+0046.860 (0) Table fc48_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0046.864 (0) Table fc48_itsec_temp: Total expected rows (via COUNT): 0
+0046.865 (0) Table fc48_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=822) in 0.00 seconds
+0046.868 (0) Table fc48_itsec_temp: finishing file(s) (2, 0.4 KB)
+0046.872 (0) Table fc48_itsec_user_groups: Total expected rows (approximate): 0
+0046.872 (0) Table fc48_itsec_user_groups: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=703) in 0.00 seconds
+0046.875 (0) Table fc48_itsec_user_groups: finishing file(s) (2, 0.4 KB)
+0046.879 (0) Table fc48_itsec_vulnerabilities: Total expected rows (approximate): 0
+0046.880 (0) Table fc48_itsec_vulnerabilities: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=897) in 0.00 seconds
+0046.883 (0) Table fc48_itsec_vulnerabilities: finishing file(s) (2, 0.4 KB)
+0046.887 (0) Table fc48_links: Total expected rows (via COUNT): 0
+0046.888 (0) Table fc48_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1039) in 0.00 seconds
+0046.890 (0) Table fc48_links: finishing file(s) (2, 0.5 KB)
+0046.895 (0) Table fc48_postmeta: Total expected rows (via COUNT): 242
+0046.895 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.899 (0) Table fc48_postmeta: Rows added in this batch (next record: 304): 242 (uncompressed bytes in this segment=78966) in 0.01 seconds
+0046.903 (0) Table fc48_postmeta: finishing file(s) (2, 10.2 KB)
+0046.907 (0) Table fc48_posts: Total expected rows (via COUNT): 140
+0046.908 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.922 (0) Table fc48_posts: Rows added in this batch (next record: 169): 140 (uncompressed bytes in this segment=705005) in 0.02 seconds
+0046.926 (0) Table fc48_posts: finishing file(s) (2, 54.3 KB)
+0046.930 (0) Table fc48_term_relationships: Total expected rows (approximate): 19
+0046.932 (0) Table fc48_term_relationships: Rows added in this batch (next record: 100000): 21 (uncompressed bytes in this segment=975) in 0.00 seconds
+0046.935 (0) Table fc48_term_relationships: finishing file(s) (2, 0.5 KB)
+0046.940 (0) Table fc48_term_taxonomy: Total expected rows (via COUNT): 12
+0046.941 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.943 (0) Table fc48_term_taxonomy: Rows added in this batch (next record: 14): 12 (uncompressed bytes in this segment=1267) in 0.01 seconds
+0046.947 (0) Table fc48_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0046.953 (0) Table fc48_termmeta: Total expected rows (via COUNT): 0
+0046.954 (0) Table fc48_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=619) in 0.00 seconds
+0046.958 (0) Table fc48_termmeta: finishing file(s) (2, 0.4 KB)
+0046.962 (0) Table fc48_terms: Total expected rows (via COUNT): 12
+0046.963 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0046.965 (0) Table fc48_terms: Rows added in this batch (next record: 14): 12 (uncompressed bytes in this segment=1032) in 0.00 seconds
+0046.968 (0) Table fc48_terms: finishing file(s) (2, 0.5 KB)
+0046.972 (0) Table fc48_smush_dir_images: Total expected rows (via COUNT): 0
+0046.974 (0) Table fc48_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.00 seconds
+0046.977 (0) Table fc48_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0046.983 (0) Table fc48_wpforms_logs: Total expected rows (via COUNT): 0
+0046.984 (0) Table fc48_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=671) in 0.00 seconds
+0046.988 (0) Table fc48_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0046.995 (0) Table fc48_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0046.997 (0) Table fc48_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.01 seconds
+0047.001 (0) Table fc48_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0047.006 (0) Table fc48_wpforms_payments: Total expected rows (via COUNT): 0
+0047.008 (0) Table fc48_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1662) in 0.00 seconds
+0047.011 (0) Table fc48_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0047.015 (0) Table fc48_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0047.016 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0047.018 (0) Table fc48_wpforms_tasks_meta: Rows added in this batch (next record: 9): 5 (uncompressed bytes in this segment=993) in 0.01 seconds
+0047.022 (0) Table fc48_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0047.029 (0) Table fc48_yoast_indexable: Total expected rows (via COUNT): 45
+0047.030 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0047.034 (0) Table fc48_yoast_indexable: Rows added in this batch (next record: 45): 45 (uncompressed bytes in this segment=28828) in 0.01 seconds
+0047.038 (0) Table fc48_yoast_indexable: finishing file(s) (2, 4.6 KB)
+0047.042 (0) Table fc48_yoast_indexable_hierarchy: Total expected rows (approximate): 42
+0047.044 (0) Table fc48_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 42 (uncompressed bytes in this segment=1476) in 0.00 seconds
+0047.047 (0) Table fc48_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0047.052 (0) Table fc48_yoast_migrations: Total expected rows (via COUNT): 24
+0047.053 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0047.055 (0) Table fc48_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1252) in 0.00 seconds
+0047.058 (0) Table fc48_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0047.062 (0) Table fc48_yoast_primary_term: Total expected rows (via COUNT): 0
+0047.064 (0) Table fc48_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=841) in 0.00 seconds
+0047.066 (0) Table fc48_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0047.071 (0) Table fc48_yoast_seo_links: Total expected rows (via COUNT): 50
+0047.071 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0047.074 (0) Table fc48_yoast_seo_links: Rows added in this batch (next record: 59): 50 (uncompressed bytes in this segment=9679) in 0.00 seconds
+0047.076 (0) Table fc48_yoast_seo_links: finishing file(s) (2, 2 KB)
+0047.077 (0) PHP event: code E_WARNING: filemtime(): stat failed for /data01/virt131977/domeenid/www.arturpetrovski23.thkit.ee/htdocs/portfolio1/wp-content/updraft/backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+0047.078 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_options.table.tmpr4389.gz (1/40/fopen): adding to final database dump
+0047.079 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_options.table.gz (2/40/fopen): adding to final database dump
+0047.080 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_users.table.tmpr3.gz (3/40/fopen): adding to final database dump
+0047.081 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_users.table.gz (4/40/fopen): adding to final database dump
+0047.081 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_usermeta.table.tmpr62.gz (5/40/fopen): adding to final database dump
+0047.082 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_usermeta.table.gz (6/40/fopen): adding to final database dump
+0047.082 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_actions.table.tmpr97.gz (7/40/fopen): adding to final database dump
+0047.083 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_actions.table.gz (8/40/fopen): adding to final database dump
+0047.083 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_claims.table.tmpr0.gz (9/40/fopen): adding to final database dump
+0047.084 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_claims.table.gz (10/40/fopen): adding to final database dump
+0047.084 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_groups.table.tmpr3.gz (11/40/fopen): adding to final database dump
+0047.085 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_groups.table.gz (12/40/fopen): adding to final database dump
+0047.085 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_logs.table.tmpr247.gz (13/40/fopen): adding to final database dump
+0047.086 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_actionscheduler_logs.table.gz (14/40/fopen): adding to final database dump
+0047.086 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_commentmeta.table.tmpr0.gz (15/40/fopen): adding to final database dump
+0047.087 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_commentmeta.table.gz (16/40/fopen): adding to final database dump
+0047.088 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_comments.table.tmpr3.gz (17/40/fopen): adding to final database dump
+0047.088 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_comments.table.gz (18/40/fopen): adding to final database dump
+0047.089 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_bans.table.tmpr0.gz (19/40/fopen): adding to final database dump
+0047.089 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_bans.table.gz (20/40/fopen): adding to final database dump
+0047.090 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_dashboard_events.table.tmpr0.gz (21/40/fopen): adding to final database dump
+0047.091 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_dashboard_events.table.gz (22/40/fopen): adding to final database dump
+0047.092 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_dashboard_lockouts.table.tmpr0.gz (23/40/fopen): adding to final database dump
+0047.092 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_dashboard_lockouts.table.gz (24/40/fopen): adding to final database dump
+0047.093 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_distributed_storage.table.tmpr0.gz (25/40/fopen): adding to final database dump
+0047.093 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_distributed_storage.table.gz (26/40/fopen): adding to final database dump
+0047.094 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_fingerprints.table.tmpr0.gz (27/40/fopen): adding to final database dump
+0047.095 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_fingerprints.table.gz (28/40/fopen): adding to final database dump
+0047.095 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_firewall_rules.table.tmpr0.gz (29/40/fopen): adding to final database dump
+0047.096 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_firewall_rules.table.gz (30/40/fopen): adding to final database dump
+0047.096 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_geolocation_cache.table.tmpr0.gz (31/40/fopen): adding to final database dump
+0047.097 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_geolocation_cache.table.gz (32/40/fopen): adding to final database dump
+0047.097 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_lockouts.table.tmpr0.gz (33/40/fopen): adding to final database dump
+0047.098 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_lockouts.table.gz (34/40/fopen): adding to final database dump
+0047.099 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_logs.table.tmpr32.gz (35/40/fopen): adding to final database dump
+0047.099 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_logs.table.gz (36/40/fopen): adding to final database dump
+0047.100 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_mutexes.table.tmpr0.gz (37/40/fopen): adding to final database dump
+0047.100 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_mutexes.table.gz (38/40/fopen): adding to final database dump
+0047.101 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_opaque_tokens.table.tmpr1.gz (39/40/fopen): adding to final database dump
+0047.101 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_opaque_tokens.table.gz (40/40/fopen): adding to final database dump
+0047.102 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_temp.table.tmpr0.gz (41/40/fopen): adding to final database dump
+0047.102 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_temp.table.gz (42/40/fopen): adding to final database dump
+0047.103 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_user_groups.table.tmpr1.gz (43/40/fopen): adding to final database dump
+0047.103 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_user_groups.table.gz (44/40/fopen): adding to final database dump
+0047.104 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_vulnerabilities.table.tmpr1.gz (45/40/fopen): adding to final database dump
+0047.104 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_itsec_vulnerabilities.table.gz (46/40/fopen): adding to final database dump
+0047.105 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_links.table.tmpr0.gz (47/40/fopen): adding to final database dump
+0047.105 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_links.table.gz (48/40/fopen): adding to final database dump
+0047.106 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_postmeta.table.tmpr305.gz (49/40/fopen): adding to final database dump
+0047.107 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_postmeta.table.gz (50/40/fopen): adding to final database dump
+0047.107 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_posts.table.tmpr170.gz (51/40/fopen): adding to final database dump
+0047.108 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_posts.table.gz (52/40/fopen): adding to final database dump
+0047.109 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_term_relationships.table.tmpr100001.gz (53/40/fopen): adding to final database dump
+0047.110 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_term_relationships.table.gz (54/40/fopen): adding to final database dump
+0047.110 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_term_taxonomy.table.tmpr15.gz (55/40/fopen): adding to final database dump
+0047.111 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_term_taxonomy.table.gz (56/40/fopen): adding to final database dump
+0047.111 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_termmeta.table.tmpr0.gz (57/40/fopen): adding to final database dump
+0047.112 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_termmeta.table.gz (58/40/fopen): adding to final database dump
+0047.112 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_terms.table.tmpr15.gz (59/40/fopen): adding to final database dump
+0047.113 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_terms.table.gz (60/40/fopen): adding to final database dump
+0047.113 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_smush_dir_images.table.tmpr0.gz (61/40/fopen): adding to final database dump
+0047.114 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_smush_dir_images.table.gz (62/40/fopen): adding to final database dump
+0047.114 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_logs.table.tmpr0.gz (63/40/fopen): adding to final database dump
+0047.114 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_logs.table.gz (64/40/fopen): adding to final database dump
+0047.115 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_payment_meta.table.tmpr0.gz (65/40/fopen): adding to final database dump
+0047.115 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_payment_meta.table.gz (66/40/fopen): adding to final database dump
+0047.116 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_payments.table.tmpr0.gz (67/40/fopen): adding to final database dump
+0047.116 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_payments.table.gz (68/40/fopen): adding to final database dump
+0047.117 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_tasks_meta.table.tmpr10.gz (69/40/fopen): adding to final database dump
+0047.117 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_wpforms_tasks_meta.table.gz (70/40/fopen): adding to final database dump
+0047.118 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_indexable.table.tmpr46.gz (71/40/fopen): adding to final database dump
+0047.119 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_indexable.table.gz (72/40/fopen): adding to final database dump
+0047.119 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_indexable_hierarchy.table.tmpr1001.gz (73/40/fopen): adding to final database dump
+0047.120 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_indexable_hierarchy.table.gz (74/40/fopen): adding to final database dump
+0047.120 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_migrations.table.tmpr25.gz (75/40/fopen): adding to final database dump
+0047.121 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_migrations.table.gz (76/40/fopen): adding to final database dump
+0047.121 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_primary_term.table.tmpr0.gz (77/40/fopen): adding to final database dump
+0047.122 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_primary_term.table.gz (78/40/fopen): adding to final database dump
+0047.123 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_seo_links.table.tmpr60.gz (79/40/fopen): adding to final database dump
+0047.123 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db-table-fc48_yoast_seo_links.table.gz (80/40/fopen): adding to final database dump
+0047.125 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz: finished writing out complete database file (156.1 KB)
+0047.131 (0) Total database tables backed up: 40 (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz, size: 159959, sha1: 1da48e0035ddc523d29c13290bfb4df12354f2f1, sha256: ff2433f2e5d082720c63ba0e63ff69d39febc968781bc91a2aeb154dead0867e)
+0047.137 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip: plugins: This file has already been successfully uploaded
+0047.137 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip: themes: This file has already been successfully uploaded
+0047.138 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip: uploads: This file has already been successfully uploaded
+0047.138 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0047.139 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip: others: This file has already been successfully uploaded
+0047.139 (0) backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz: db: This file has not yet been successfully uploaded: will queue
+0047.140 (0) Saving backup history. Total backup size: 94.5 MB
+0047.143 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0047.145 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0047.146 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-39b5deb61ef6d038a01ea475f12981ca)
+0047.612 (0) Google Drive: quota usage: used=420 MB, total=15360 MB, available=14940 MB
+0047.613 (0) Google Drive: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz: Attempting to upload to Google Drive (into folder id: 1hVqbPbAysrPkll0tLu79W9_gWLA_qN1t)
+0050.046 (0) Googledrive chunked upload: 100 % uploaded
+0050.050 (0) Google Drive: OK: Archive backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz uploaded in 2.44 seconds
+0050.051 (0) Recording as successfully uploaded: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz
+0050.052 (0) Deleting local file: backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-db.gz: OK
+0050.054 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0050.056 (0) Number of backup sets in history: 3; groups (db): 1
+0050.057 (0) Examining (for databases) backup set with group_id=0, nonce=819f52850851, datestamp=1736995556 (Jan 16 2025 02:45:56)
+0050.057 (0) This backup set is the backup set just made, so will not be deleted.
+0050.057 (0) Examining (for databases) backup set with group_id=0, nonce=70a537eb36d9, datestamp=1736862350 (Jan 14 2025 13:45:50)
+0050.057 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0050.058 (0) Examining (for databases) backup set with group_id=0, nonce=955c9e6f0740, datestamp=1736310000 (Jan 08 2025 04:20:00)
+0050.058 (0) 1736310000: db: this set includes a database (backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-db.gz); db count is now 2
+0050.058 (0) 1736310000: db: over retain limit (2); will delete this database
+0051.557 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-db.gz: Deletion failed: file was not found
+0051.647 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0051.674 (0) Number of backup sets in history: 3; groups (files): 1
+0051.702 (0) Examining (for files) backup set with nonce=819f52850851, datestamp=1736995556 (Jan 16 2025 02:45:56)
+0051.702 (0) This backup set is the backup set just made, so will not be deleted.
+0051.728 (0) This backup set is the backup set just made, so will not be deleted.
+0051.728 (0) This backup set is the backup set just made, so will not be deleted.
+0051.728 (0) This backup set is the backup set just made, so will not be deleted.
+0051.728 (0) This backup set is the backup set just made, so will not be deleted.
+0051.728 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0051.744 (0) Examining (for files) backup set with nonce=70a537eb36d9, datestamp=1736862350 (Jan 14 2025 13:45:50)
+0051.744 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0051.744 (0) Examining (for files) backup set with nonce=955c9e6f0740, datestamp=1736310000 (Jan 08 2025 04:20:00)
+0051.744 (0) plugins: over retain limit (2); will delete this file entity
+0051.745 (0) themes: over retain limit (2); will delete this file entity
+0051.745 (0) uploads: over retain limit (2); will delete this file entity
+0051.745 (0) mu-plugins: over retain limit (2); will delete this file entity
+0051.745 (0) others: over retain limit (2); will delete this file entity
+0052.395 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-plugins.zip: Deletion failed: file was not found
+0052.396 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-themes.zip: Deletion failed: file was not found
+0052.397 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-uploads.zip: Deletion failed: file was not found
+0052.398 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-mu-plugins.zip: Deletion failed: file was not found
+0052.399 (0) Google Drive: backup_2025-01-08-0620_Artur_Petrovski_Portfolio_955c9e6f0740-others.zip: Deletion failed: file was not found
+0052.401 (0) This backup set is now empty; will remove from history
+0052.402 (0) Deleting log file (log.955c9e6f0740.txt)
+0052.404 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0052.407 (0) Resume backup (819f52850851, 0): finish run
+0052.409 (0) Decremented the semaphore (fd) by 1
+0052.410 (0) Semaphore (fd) unlocked
+0052.411 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0052.413 (0) Deleting zip manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-plugins.zip.list.tmp)
+0052.414 (0) Deleting zip manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-themes.zip.list.tmp)
+0052.415 (0) Deleting zip manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-uploads.zip.list.tmp)
+0052.415 (0) Deleting zip manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-mu-plugins.zip.list.tmp)
+0052.416 (0) Deleting zip manifest (backup_2025-01-16-0445_Artur_Petrovski_Portfolio_819f52850851-others.zip.list.tmp)
+0052.417 (0) No email will/can be sent - the user has not configured an email address.
+0052.417 (0) The backup succeeded and is now complete
