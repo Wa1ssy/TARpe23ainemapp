@@ -1,0 +1,326 @@
+1. Käitumispõhine arendus (Behavior-Driven Development, BDD)
+Kirjeldus:
+BDD keskendub tarkvara käitumise määratlemisele ja testimisele loomulikus keeles. Selle eesmärk on hõlbustada koostööd arendajate, testijate ja äripoole vahel, kasutades mõistet "käitumine" (behavior) konkreetsete stsenaariumite kaudu.
+
+Arendustsükkel:
+
+Koostöö äripoole ja arendajatega: Äri- ja arendustiimid arutavad nõudeid ning määratlevad käitumisstsenaariumid loomulikus keeles.
+
+Testide kirjutamine: Stsenaariumid, mis on kirjutatud Gherkin-süntaksis, kirjutatakse testideks.
+
+Koodimise arendamine: Arendatakse kood, mis rahuldab need testid.
+
+Refaktoreerimine: Testide ja koodi käivitamine ning vajadusel koodi täiustamine.
+
+Eelised:
+
+Parandab suhtlust meeskonna liikmete vahel.
+
+Testimine on arusaadav ka äripoolele.
+
+Loob elava dokumentatsiooni.
+
+Puudused:
+
+Vajab pidevat koostööd, mis võib olla ajamahukas.
+
+Esialgne õppimiskõver on olemas, eriti uutele meeskondadele.
+
+Näide tööriistast:
+Cucumber – tööriist, mis võimaldab kirjutada ja automatiseerida teste loomulikus keeles.
+
+Viited:
+
+Wikipedia
+
+Qualitest
+
+2. Disainipõhine arendus (Design-Driven Development)
+Kirjeldus:
+Disainipõhine arendus keskendub süsteemi arhitektuuri ja disaini põhjalikule kavandamisele enne koodimist. Selle eesmärk on tagada, et lõppprodukt on hästi üles ehitatud ja kergesti hooldatav.
+
+Arendustsükkel:
+
+Nõuete kogumine ja analüüs.
+
+Süsteemi arhitektuuri loomine.
+
+Disaini ülevaatused ja kinnitamine.
+
+Kodeerimine vastavalt disainile.
+
+Testimine ja valideerimine.
+
+Eelised:
+
+Tagab süsteemi arhitektuuri kvaliteedi.
+
+Vähendab ümbertegemist hilisemates etappides.
+
+Puudused:
+
+Suur ajakulu algfaasis.
+
+Vähenenud paindlikkus hiljem süsteemi muutmiseks.
+
+Näide tööriistast:
+Enterprise Architect – tööriist, mis toetab süsteemi disaini modelleerimist.
+
+Viited:
+
+Wikipedia
+
+3. Domeenipõhine disain (Domain-Driven Design, DDD)
+Kirjeldus:
+DDD keskendub tarkvara arendamisele, mis peegeldab ärivaldkonna mõisteid ja loogikat. Tugev koostöö domeeniekspertidega on oluline, et tagada süsteemi täpsus ja kvaliteet.
+
+Arendustsükkel:
+
+Koostöö domeeniekspertidega, et mõista ärivaldkonna nõudeid.
+
+Domeeni mudelite loomine.
+
+Kood arendatakse vastavalt domeenimudelitele.
+
+Pidev tagasiside ja mudelite täiustamine.
+
+Eelised:
+
+Täpne ärivaldkonna kajastamine.
+
+Parandab koostööd arendajate ja äripoole vahel.
+
+Puudused:
+
+Vajab suurt teadmistepagasit ja tihedat koostööd domeeniekspertidega.
+
+Rakendamine on keeruline suurtel projektidel.
+
+Näide tööriistast:
+Domain Storytelling – tööriist, mis aitab luua visuaalseid domeenimudeleid ja kirjeldada äriprotsesse.
+
+Viited:
+
+GeeksforGeeks
+
+4. Turvalisuspõhine disain (Secure by Design)
+Kirjeldus:
+Turvalisuspõhine disain rõhutab turvalisuse algset integreerimist tarkvaraarendusse, mitte hilisema turvafunktsioonide lisamist. See lähenemine keskendub süsteemi arhitektuuri ja disaini turvalisusele.
+
+Arendustsükkel:
+
+Turvahaavatavuste hindamine ja nõuete määratlus.
+
+Süsteemi arhitektuuri ja disaini loomine turvalisuse põhimõtteid järgides.
+
+Koodimine ja turvalisuse testimine.
+
+Pidev turvauuenduste ja täiustuste tegemine.
+
+Eelised:
+
+Ennetab turvaprobleemide tekkimist hilisemates etappides.
+
+Vähendab potentsiaalsete turvariskide arvu.
+
+Puudused:
+
+Ajakulu ja ressursid turvalisuse algstaadiumis.
+
+Vajab süvitsi minevat teadmist turvameetoditest.
+
+Näide tööriistast:
+OWASP ZAP – tööriist, mis tuvastab turvahaavatavused veebirakendustes.
+
+Viited:
+
+OWASP
+
+5. Testipõhine arendus (Test-Driven Development, TDD)
+Kirjeldus:
+TDD on meetod, kus testid kirjutatakse enne koodi, et kindlustada koodi kvaliteet ja toimimine. Testimine toimub pidevalt kogu arendustsükli vältel.
+
+Arendustsükkel:
+
+Testide kirjutamine enne koodi.
+
+Testide läbimine ja kood kirjutamine, et neid läbida.
+
+Refaktoreerimine ja testide korduv läbimine.
+
+Eelised:
+
+Tagab koodi kvaliteedi ja katvuse.
+
+Aitab vältida regressiooni ja vigu koodis.
+
+Puudused:
+
+Esialgne ajakulu testide kirjutamiseks.
+
+Vähenenud paindlikkus, kui testimisnõuded ei ole õigesti määratletud.
+
+Näide tööriistast:
+JUnit – tööriist Java arendusele, mis toetab TDD praktikat.
+
+Viited:
+
+Wikipedia
+
+6. Aktsepteerimispõhine testimise arendus (Acceptance Test-Driven Development, ATDD)
+Kirjeldus:
+ATDD on praktika, kus testid määratletakse vastavalt ärinõuetele, et tagada süsteemi vastavus äripoole ootustele.
+
+Arendustsükkel:
+
+Ärinõuete määratlus ja aktsepteerimistestide loomine.
+
+Kood arendatakse vastavalt aktsepteerimistestidele.
+
+Testide täitmine ja kinnitamine, et ärinõuded on täidetud.
+
+Eelised:
+
+Tagab äripoole ootustele vastava lõpptoote.
+
+Aitab arendajatel paremini mõista äripoole vajadusi.
+
+Puudused:
+
+Võib olla keeruline koordineerida meeskonna ja äripoole vahel.
+
+Testide määratlemine on ajamahukas.
+
+Näide tööriistast:
+FitNesse – tööriist, mis võimaldab määratleda ja täita aktsepteerimisteste.
+
+Viited:
+
+FitNesse
+
+7. Jätkusuutlik testimine (Continuous Test-Driven Development)
+Kirjeldus:
+CTDD on TDD täiustatud versioon, kus testimine toimub pidevalt kogu arenduse vältel. Toodet testitakse järjepidevalt iga muudatuse järel.
+
+Arendustsükkel:
+
+Pidev testimine ja koodi täiendamine.
+
+Testide automatiseerimine, et kiirendada tagasiside andmist.
+
+Regulaarne koodi refaktoreerimine.
+
+Eelised:
+
+Tagab pideva kvaliteedi tagamise.
+
+Aitab vältida suuri refaktoreerimisvajadusi hilisemates etappides.
+
+Puudused:
+
+Testimise täpsus ja ulatus sõltub meeskonna võimekusest.
+
+Ebaefektiivne, kui testid on liiga üldised või madala katvusega.
+
+Näide tööriistast:
+Jenkins – pideva integreerimise tööriist, mis integreerib testimist ja koodimuudatusi.
+
+Viited:
+8. Spetsifikatsioon põhjal näite järgi (Specification by Example)
+Kirjeldus:
+Specification by Example (SBE) on lähenemine, kus tarkvara nõuded on määratletud näidete kaudu. Näited toimivad konkreetselt arendajate ja testijate suunamiseks, kuidas süsteem peaks käituma reaalsetes olukordades. SBE aitab tagada, et kõik meeskonnaliikmed on samal lehel ja mõistavad ärivajadusi.
+
+Arendustsükkel:
+
+Näidete määratlus: Koostöös äripoolega määratletakse selged, reaalsetest stsenaariumitest lähtuvad näited.
+
+Koodimine ja testimine: Arendatakse kood, mis rahuldab määratud näiteid.
+
+Testimine ja valideerimine: Kontrollitakse, et süsteem käitub vastavalt määratud näidetele.
+
+Eelised:
+
+Ärinõuded on selgelt määratletud ja arusaadavad kõigile osapooltele.
+
+Kõik meeskonnaliikmed saavad aru süsteemi täpsetest ootustest.
+
+Parandab koostööd äripoole ja arendajate vahel.
+
+Puudused:
+
+Ajakulu näidete määratlemisel, mis vajab tihedat koostööd kõigi meeskonnaliikmete vahel.
+
+Võib olla keeruline, kui näited ei ole piisavalt detailsed või spetsiifilised.
+
+Näide tööriistast:
+SpecFlow – BDD-tüüpi tööriist .NET jaoks, mis toetab spetsifikatsiooni määratlemist näidete kaudu.
+
+Viited:
+
+Specification by Example
+
+9. Andmepõhine arendus (Data-Driven Development)
+Kirjeldus:
+Andmepõhine arendus keskendub arenduse käigus suures osas andmete analüüsile ja andmepõhiste süsteemide loomiseks. Selle eesmärk on arendada tarkvara, mis teeb otsuseid ja toiminguid vastavalt andmete analüüsile ja reeglitele, mitte rangelt etteantud loogikale.
+
+Arendustsükkel:
+
+Andmete kogumine ja analüüs.
+
+Andmepõhiste reeglite määratlemine.
+
+Koodimine, mis viib läbi analüüse ja otsuseid andmete põhjal.
+
+Testimine andmete põhjal ja süsteemi täiustamine.
+
+Eelised:
+
+Tagab paindlikkuse, kuna otsused tehakse andmete põhjal, mitte fikseeritud reeglite järgi.
+
+Aitab arendada süsteeme, mis suudavad töötada suurte andmemahtudega.
+
+Puudused:
+
+Vajab kvaliteetset ja täpset andmete kogumist ja analüüsi.
+
+Andmete töötlemine võib olla keeruline ja aeganõudev.
+
+Näide tööriistast:
+Apache Spark – suurte andmemahtude töötlemiseks mõeldud raamistik, mis toetab andmepõhist arendust.
+
+Viited:
+
+Apache Spark
+
+10. Andmepõhine disain (Data-Oriented Design)
+Kirjeldus:
+Andmepõhine disain keskendub sellele, kuidas andmed on struktureeritud ja kuidas need voolavad süsteemi erinevates komponentides. See disainimeetod seab esikohale andmete salvestamise ja töötlemise efektiivsuse, et tagada süsteemi kiire ja optimeeritud toimimine.
+
+Arendustsükkel:
+
+Andmete analüüs ja määratlus: Kogutakse andmete spetsiifika ja määratletakse nende struktureerimise viis.
+
+Koodide ja arhitektuuri arendamine, mis optimeerib andmete töötlemist.
+
+Süsteemi testimine ja optimeerimine andmete töötlemise kiirusel.
+
+Eelised:
+
+Suurendab süsteemi toimivust ja optimeeritust, keskendudes andmete töötlemise kiirusel.
+
+Väga sobilik suurte andmemahtude töötlemiseks ja analüüsiks.
+
+Puudused:
+
+Ei pruugi sobida kõikide tüüpi rakenduste jaoks, eriti kui andmed ei ole süsteemi keskmes.
+
+Andmete haldamine võib muutuda keeruliseks ja kulukaks, kui neid ei optimeerita korralikult.
+
+Näide tööriistast:
+BlazeGraph – andmepõhine graafide töötlemise ja analüüsi tööriist, mis toetab suurte andmemahtude töötlemist.
+
+Viited:
+
+BlazeGraph
+
+https://chatgpt.com/share/67e273f8-dcf0-8003-996c-8d1f8ce5a9be
