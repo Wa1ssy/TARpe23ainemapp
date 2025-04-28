@@ -2,136 +2,234 @@
 <html lang="et">
 <head>
     <meta charset="UTF-8">
-    <title>TARpe23 Artur Petrovski</title>
+    <title>TARpe23 Artur Petrovski - Koduleht</title>
+    <style>
+        @font-face {
+            font-family: 'Tagesschrift';
+            src: url('Tagesschrift-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        table {
-            width: 80%;
-            margin: auto;
-            border-collapse: collapse;
-            background: white;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            vertical-align: top;
-        }
-        h3 {
-            color: #333;
-            font-family: 'Courier New', monospace;
-        }
-        a {
-            text-decoration: none;
-            color: #007BFF;
-        }
-        .btn-container {
-            display: flex;
-            justify-content: space-around;
-            padding: 10px;
-        }
-        .btn-column {
+            font-family: 'Tagesschrift', sans-serif;
+            background: linear-gradient(135deg, #000000, #0d0d2b);
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            background: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlhOGdsNWMwNmdhZGgzajdjNXU4OXdjZzdlNTR3cGFyem1kaW5mOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehssta24116nk9VWyN/giphy.gif') no-repeat center center fixed;
+            background-size: cover;
             display: flex;
             flex-direction: column;
             align-items: center;
+            backdrop-filter: blur(5px);
         }
-        .btn {
-            background: #007BFF;
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid white;
+            border-radius: 15px;
+            box-shadow: 0 0 20px white;
+            padding: 40px;
+            margin: 20px 0;
+            backdrop-filter: blur(8px);
+        }
+
+        .profile {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .profile img {
+            width: 150px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px white;
+        }
+        .info ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+        .info li {
+            margin: 10px 0;
+        }
+        a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #ff00ff;
+            text-shadow: 0 0 10px #ff00ff;
+        }
+        h1, h2, h3, h4 {
+            color: #ffffff;
+            margin: 10px 0;
+            text-align: center;
+        }
+
+        /* Dropdown */
+        .dropdown {
+            margin: 20px 0;
+            width: 100%;
+        }
+        .dropdown-btn {
+            width: 100%;
+            background: transparent;
+            border: 2px solid white;
             color: white;
-            border: none;
-            padding: 10px 20px;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 18px;
             cursor: pointer;
-            border-radius: 5px;
-            transition: 0.3s;
-            margin: 5px;
+            text-align: left;
+            font-weight: bold;
+            transition: 0.4s;
+            backdrop-filter: blur(5px);
+            font-family: 'Tagesschrift', sans-serif;
         }
-        .btn:hover {
-            background: #0056b3;
+        .dropdown-btn:hover {
+            background: white;
+            color: black;
+            box-shadow: 0 0 15px white;
+        }
+        .dropdown-content {
+            display: none;
+            flex-direction: column;
+            margin-top: 10px;
+            padding-left: 10px;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        .dropdown-content button {
+            background: transparent;
+            border: 2px solid #ffffff99;
+            color: white;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.3s;
+            font-family: 'Tagesschrift', sans-serif;
+        }
+        .dropdown-content button:hover {
+            background: white;
+            color: black;
+            box-shadow: 0 0 10px white;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
     <script>
         function navigateTo(url) {
             window.location.href = url;
         }
+
+        function toggleDropdown(id) {
+            const dropdown = document.getElementById(id);
+            if (dropdown.style.display === "flex") {
+                dropdown.style.display = "none";
+            } else {
+                dropdown.style.display = "flex";
+            }
+        }
     </script>
 </head>
 <body>
-    <table>
-        <tr>
-            <td><img src="god-of-war.gif" alt="Profile Picture" width="167"></td>
-            <td>
-                <h3>Artur Petrovski 2023</h3>
+    <div class="container">
+        <div class="profile">
+            <img src="god-of-war.gif" alt="Profile Picture">
+            <div class="info">
+                <h2>Artur Petrovski 2023</h2>
                 <ul>
                     <li><b>Sünnikoht:</b> Tallinn</li>
                     <li><b>Iseloomustus:</b> Ilus, tark ja osav</li>
                     <li><b>E-post:</b> petrovskiartur958@gmail.com</li>
-                    <li><b>Veebilehekülg:</b> <a href="arturpetrovski23.thkit.ee">arturpetrovski23.thkit.ee</a></li>
+                    <li><b>Veebilehekülg:</b> <a href="https://arturpetrovski23.thkit.ee" target="_blank">arturpetrovski23.thkit.ee</a></li>
                     <li><b>Moto:</b> Kõik on võimalik</li>
                 </ul>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <h4>Kategooriad:</h4>
-                <div class="btn-container">
-                    <div class="btn-column">
-                        <h4>Koolitööd</h4>
-                        <button class="btn" onclick="navigateTo('Esimene.html')">Esimene</button>
-                        <button class="btn" onclick="navigateTo('loetelud.html')">Loetelu</button>
-                        <button class="btn" onclick="navigateTo('Semantiline struktuur.html')">Semantiline struktuur</button>
-                        <button class="btn" onclick="navigateTo('Kordamine.html')">Kordamine</button>
-                        <button class="btn" onclick="navigateTo('Siseviide.html')">Siseviide</button>
-                        <button class="btn" onclick="navigateTo('https://www.tthk.ee')">Kooli koduleht</button>
-						<button class="btn" onclick="navigateTo('Teksti Markeerimine.html')">Teksti markeerimine</button>
-						<button class="btn" onclick="navigateTo('Form2.html')">Vormid</button>
-						<button class="btn" onclick="navigateTo('css-paragraafid/index.html')">Css paragraafid</button>
-                    </div>
-                    <div class="btn-column">
-                        <h4>Portfoolio & Arendustsüklid</h4>
-                        <button class="btn" onclick="navigateTo('https://arturpetrovski23.thkit.ee/portfolio1/')">Portfoolio</button>
-                        <button class="btn" onclick="navigateTo('arendustsyklid/homepage.html')">Arendustsüklid</button>
-                    </div>
-                    <div class="btn-column">
-                        <h4>JavaScript</h4>
-                        <button class="btn" onclick="navigateTo('JavaScript/ylesanne1/index.html')">Ülesanne 1</button>
-                        <button class="btn" onclick="navigateTo('JavaScript/ylesanne2/index.html')">Ülesanne 2</button>
-                        <button class="btn" onclick="navigateTo('JavaScript/ylesanne3/index.html')">Ülesanne 3</button>
-                        <button class="btn" onclick="navigateTo('JavaScript/ylesanne4/index.html')">Ülesanne 4</button>
-                        <button class="btn" onclick="navigateTo('JavaScript/ylesanne5/index.html')">Ülesanne 5</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne6/index.html')">Ülesanne 6</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne7/index.html')">Ülesanne 7</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne8/index.html')">Ülesanne 8</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne9/index.html')">Ülesanne 9</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne10/index.html')">Ülesanne 10</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne11/index.html')">Ülesanne 11</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne12/index.html')">Ülesanne 12</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne13/index.html')">Ülesanne 13</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne14/index.html')">Ülesanne 14</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne15/index.html')">Ülesanne 15</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne16/index.html')">Ülesanne 16</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne17/index.html')">Ülesanne 17</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne18/index.html')">Ülesanne 18</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne19/index.html')">Ülesanne 19</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne20/index.html')">Ülesanne 20</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne21/index.html')">Ülesanne 21</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne22/index.html')">Ülesanne 22</button>
-						<button class="btn" onclick="navigateTo('JavaScript/ylesanne23/index.html')">Ülesanne 23</button>
-                    </div>
-                    <div class="btn-column">
-                        <h4>Harjutused</h4>
-                        <button class="btn" onclick="navigateTo('Harjutus 3/Harjutus3.html')">Harjutus 3</button>
-                        <button class="btn" onclick="navigateTo('Harjutus 4/Index.html')">Harjutus 4</button>
-                        <button class="btn" onclick="navigateTo('Harjutus 5/Harjutus5.html')">Harjutus 5</button>
-                        <button class="btn" onclick="navigateTo('Harjutus 6/Harjutus6.html')">Harjutus 6</button>
-                        <button class="btn" onclick="navigateTo('Harjutus 7/Harjutus7.html')">Harjutus 7</button>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
+            </div>
+        </div>
+
+        <h3>Kategooriad</h3>
+
+        <!-- Koolitööd -->
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('koolitoo')">Koolitööd</button>
+            <div id="koolitoo" class="dropdown-content">
+                <button onclick="navigateTo('Esimene.html')">Esimene</button>
+                <button onclick="navigateTo('loetelud.html')">Loetelu</button>
+                <button onclick="navigateTo('Semantiline struktuur.html')">Semantiline struktuur</button>
+                <button onclick="navigateTo('Kordamine.html')">Kordamine</button>
+                <button onclick="navigateTo('Siseviide.html')">Siseviide</button>
+                <button onclick="navigateTo('Teksti Markeerimine.html')">Teksti markeerimine</button>
+                <button onclick="navigateTo('Form2.html')">Vormid</button>
+                <button onclick="navigateTo('css-paragraafid/index.html')">CSS Paragraafid</button>
+                <button onclick="navigateTo('https://www.tthk.ee')">Kooli koduleht</button>
+            </div>
+        </div>
+
+        <!-- Portfoolio & Arendustsüklid -->
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('portfoolio')">Portfoolio ja Arendustsüklid</button>
+            <div id="portfoolio" class="dropdown-content">
+                <button onclick="navigateTo('https://arturpetrovski23.thkit.ee/portfolio1/')">Portfoolio</button>
+                <button onclick="navigateTo('arendustsyklid/homepage.html')">Arendustsüklid</button>
+            </div>
+        </div>
+
+        <!-- JavaScript -->
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('javascript')">JavaScript</button>
+            <div id="javascript" class="dropdown-content">
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne1/index.html')">Ülesanne 1</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne2/index.html')">Ülesanne 2</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne3/index.html')">Ülesanne 3</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne4/index.html')">Ülesanne 4</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne5/index.html')">Ülesanne 5</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne6/index.html')">Ülesanne 6</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne7/index.html')">Ülesanne 7</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne8/index.html')">Ülesanne 8</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne9/index.html')">Ülesanne 9</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne10/index.html')">Ülesanne 10</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne11/index.html')">Ülesanne 11</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne12/index.html')">Ülesanne 12</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne13/index.html')">Ülesanne 13</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne14/index.html')">Ülesanne 14</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne15/index.html')">Ülesanne 15</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne16/index.html')">Ülesanne 16</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne17/index.html')">Ülesanne 17</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne18/index.html')">Ülesanne 18</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne19/index.html')">Ülesanne 19</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne20/index.html')">Ülesanne 20</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne21/index.html')">Ülesanne 21</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne22/index.html')">Ülesanne 22</button>
+                <button class="btn" onclick="navigateTo('JavaScript/ylesanne23/index.html')">Ülesanne 23</button>
+            </div>
+        </div>
+
+        <!-- Harjutused -->
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('harjutused')">Harjutused</button>
+            <div id="harjutused" class="dropdown-content">
+                <button onclick="navigateTo('Harjutus 3/Harjutus3.html')">Harjutus 3</button>
+                <button onclick="navigateTo('Harjutus 4/Index.html')">Harjutus 4</button>
+                <button onclick="navigateTo('Harjutus 5/Harjutus5.html')">Harjutus 5</button>
+                <button onclick="navigateTo('Harjutus 6/Harjutus6.html')">Harjutus 6</button>
+                <button onclick="navigateTo('Harjutus 7/Harjutus7.html')">Harjutus 7</button>
+            </div>
+        </div>
+
+    </div>
 </body>
 </html>
